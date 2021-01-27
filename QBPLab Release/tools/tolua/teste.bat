@@ -1,0 +1,1 @@
+tolua -H QBP_ScriptObjects.h -o QBP_ScriptObjects.cpp ObjetosExportados.pkg 

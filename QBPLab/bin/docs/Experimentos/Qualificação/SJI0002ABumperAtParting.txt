@@ -1,0 +1,111 @@
+*****************************************
+*Inicio Processo Busca Simples           
+*****************************************
+Tempo Inicial : 13:4:10 
+Musica de Busca: SJI0002ABumperAtParting
+Experimento: SW
+Utiliza Atitude: Nao
+Total de Musicas 242 : 
+Total de ResultSet 8 : 
+SJI0002ABumperAtParting;142
+BAR0018BallroomFavouriteThe;114
+HOR0009Alexanders;114
+MAZ0006AssInTheGraveyardThe;112
+MAZ0020CoburgThe;109
+MAZ0018Catherines;105
+HOR0018AnGasurMor;103
+SLI0002AnSioda;102
+Tempo Final : 13:4:11 
+*****************************************
+*Fim Processo Busca Simples              
+*****************************************
+*****************************************
+*Inicio Processo Busca Simples           
+*****************************************
+Musica de Busca: SJI0002ABumperAtParting
+Experimento: MUSSUM
+Utiliza Atitude: Nao
+Tempo Inicial : 13:4:17 
+Total de Musicas 242 : 
+Total de ResultSet 22 : 
+SJI0002ABumperAtParting;142
+SJI0009AlleryBurn;109
+SJI0005APaddybird;108
+SJI0003ACountryWedding;105
+SJI0019BaltighoranThe;97
+SJI0012AngusJohnMacNeilOfBarra;95
+SJI0007APruneForAKiss;88
+SJI0006APeepBehindTheCurtain;85
+SJI0018BachsFrolics;83
+SJI0008AWhackAtTheWhigs;79
+SJI0016ArraMountains;79
+SJI0013AnotherJigWillDo;76
+SJI0017BabyRorys;75
+SJI000130thAnniversary;70
+SJI0004AFigForAKiss;70
+SJI0020BaltiorumThe;66
+SJI0010Alyths;65
+SJI0015Arlitrach;65
+SJI0000GIomainNanGamhna;64
+SJI0011AnPhisThirim;63
+SJI0014Aodhans;58
+SJI0021BarabelPhadruig;36
+Tempo Final : 13:4:17 
+*****************************************
+*Fim Processo Busca Simples              
+*****************************************
+*****************************************
+*Inicio Processo Busca Simples           
+*****************************************
+Musica de Busca: SJI0002ABumperAtParting
+Experimento: MUSSIX
+Utiliza Atitude: Nao
+Tempo Inicial : 13:4:22 
+Total de Musicas 242 : 
+Total de ResultSet 22 : 
+SJI0002ABumperAtParting;142
+SJI0005APaddybird;110
+SJI0006APeepBehindTheCurtain;95
+SJI0007APruneForAKiss;94
+SJI0003ACountryWedding;84
+SJI0012AngusJohnMacNeilOfBarra;81
+SJI0011AnPhisThirim;68
+SJI0016ArraMountains;64
+SJI0019BaltighoranThe;62
+SJI0013AnotherJigWillDo;60
+SJI000130thAnniversary;55
+SJI0020BaltiorumThe;53
+SJI0004AFigForAKiss;51
+SJI0017BabyRorys;49
+SJI0009AlleryBurn;48
+SJI0015Arlitrach;45
+SJI0008AWhackAtTheWhigs;41
+SJI0010Alyths;41
+SJI0000GIomainNanGamhna;35
+SJI0014Aodhans;31
+SJI0021BarabelPhadruig;13
+SJI0018BachsFrolics;9
+Tempo Final : 13:4:22 
+*****************************************
+*Fim Processo Busca Simples              
+*****************************************
+Musica de Busca: SJI0002ABumperAtParting
+*****************************************
+Experimento: MUSSIX
+*Inicio Processo Busca Simples           
+*****************************************
+Utiliza Atitude: Sim
+Tempo Inicial : 13:4:27 
+Total de Musicas 242 : 
+Total de ResultSet 6 : 
+SJI0002ABumperAtParting;142
+SJI0007APruneForAKiss;94
+SJI0012AngusJohnMacNeilOfBarra;81
+SJI0009AlleryBurn;48
+SJI0015Arlitrach;45
+SJI0018BachsFrolics;9
+Tempo Final : 13:4:27 
+*****************************************
+*Fim Processo Busca Simples              
+*****************************************
+

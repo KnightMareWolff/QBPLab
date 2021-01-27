@@ -1,0 +1,111 @@
+﻿--Cria um novo Motor de Busca
+local engine = QBPSearchEngine:new();
+
+--Configura 20 Musicas para retorno de Busca
+engine:SetResultSizeBalance(20);
+
+--Configura um buffer de 10 notas para musica de Consulta
+engine:SetBufferSize(10); 
+
+--Configura Precision Balance em 90%
+engine:SetPrecisionBalance(90);
+
+--Cria uma Lista de Musicas com 15% do Total do Dataset(857 Musicas)
+engine:CreateList(QBP_LIST_FULLSET,QBP_FORM_LESS_1015F);
+
+--Realiza 100 Buscas para cada algoritmo coletando musicas randomicamente 
+for i = 0,3,1 
+do
+  engine:Search('PerfectNotes10Experiment',i,QBP_LIST_FULLSET,QBP_ALG_SW,false);
+  engine:Search('PerfectNotes10Experiment',i,QBP_LIST_FULLSET,QBP_ALG_MUSSUM,false);
+  engine:Search('PerfectNotes10Experiment',i,QBP_LIST_FULLSET,QBP_ALG_MUSSIX,false);
+  engine:Search('PerfectNotes10Experiment',i,QBP_LIST_FULLSET,QBP_ALG_MUSSAT,true);
+end
+
+--Apenas emite uma mensagem de finalização...
+return 'Finished! \n'
+
+
+===========================================================================================
+--Cria um novo Motor de Busca
+local engine = QBPSearchEngine:new();
+
+--Configura 20 Musicas para retorno de Busca
+engine:SetResultSizeBalance(20);
+
+--Configura um buffer de 10 notas para musica de Consulta
+engine:SetBufferSize(20); 
+
+--Configura Precision Balance em 90%
+engine:SetPrecisionBalance(90);
+
+--Cria uma Lista de Musicas com 15% do Total do Dataset(857 Musicas)
+engine:CreateList(QBP_LIST_FULLSET,QBP_FORM_LESS_GENRE);
+
+--Extrai dados das musicas do Dataset e Joga na Log
+local qtdmusicas    = engine:GetListSize(QBP_LIST_FULLSET);
+local strqtdmusicas = tostring(qtdmusicas);
+
+engine:PushLog('Qtd Musicas: '..strqtdmusicas..' \n');
+
+--Realiza printagem de todas as musicas Buscas para cada algoritmo coletando musicas randomicamente 
+for i = 0,(qtdmusicas)-1,1 
+do
+  local nomemusica  = engine:GetListSongName (QBP_LIST_FULLSET,i);
+  local numeronotas = engine:GetListSongNotes(QBP_LIST_FULLSET,i);
+  local score       = engine:GetListSongScore(QBP_LIST_FULLSET,i);
+  
+  local strscore  = tostring(score);
+  local strnotas  = tostring(numeronotas);
+
+  engine:PushLog('Musica: '..nomemusica..' Notas: '..strnotas..' Score: '..strscore..' \n');
+  
+  engine:Search('10NotesFull',i,QBP_LIST_FULLSET,QBP_ALG_MUSSIX,false);
+end
+
+--Apenas emite uma mensagem de finalização...
+return 'Finished! \n'
+
+
+=============================================================PARA DEBUG
+--Cria um novo Motor de Busca
+local engine = QBPSearchEngine:new();
+
+--Configura 20 Musicas para retorno de Busca
+engine:SetResultSizeBalance(20);
+
+--Configura um buffer de 10 notas para musica de Consulta
+engine:SetBufferSize(10); 
+
+--Configura Precision Balance em 90%
+engine:SetPrecisionBalance(90);
+
+--Cria uma Lista de Musicas com 15% do Total do Dataset(857 Musicas)
+engine:CreateList(QBP_LIST_FULLSET,QBP_FORM_LESS_GENRE);
+
+--Extrai dados das musicas do Dataset e Joga na Log
+local qtdmusicas    = engine:GetListSize(QBP_LIST_FULLSET);
+local strqtdmusicas = tostring(qtdmusicas);
+
+engine:PushLog('Qtd Musicas: '..strqtdmusicas..' \n');
+
+--Realiza printagem de todas as musicas Buscas para cada algoritmo coletando musicas randomicamente 
+for i = 0,3,1 
+do
+  local nomemusica  = engine:GetListSongName (QBP_LIST_FULLSET,i);
+  local numeronotas = engine:GetListSongNotes(QBP_LIST_FULLSET,i);
+  local score       = engine:GetListSongScore(QBP_LIST_FULLSET,i);
+  
+  local strscore  = tostring(score);
+  local strnotas  = tostring(numeronotas);
+
+  engine:PushLog('Musica: '..nomemusica..' Notas: '..strnotas..' Score: '..strscore..' \n');
+  
+  engine:Search('10NotesFull',i,QBP_LIST_FULLSET,QBP_ALG_SW,false);
+  engine:Search('10NotesFull',i,QBP_LIST_FULLSET,QBP_ALG_MUSSUM,false);
+  --engine:Search('10NotesFull',i,QBP_LIST_FULLSET,QBP_ALG_MUSSIX,false);
+  engine:Search('10NotesFull',i,QBP_LIST_FULLSET,QBP_ALG_MUSSAT,true);
+end
+
+--Apenas emite uma mensagem de finalização...
+return 'Finished! \n'

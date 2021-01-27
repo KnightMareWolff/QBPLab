@@ -1,0 +1,62 @@
+--NÃO ESQUECER DE INCLUIR
+--#include "QBP_GlobalDef.h"
+--#include "QBP_ScriptObjectsBind.h"
+
+local engine = QBPSearchEngine:new();
+engine:Search('Teste Script','Random 0 - Random Song',4,0,false);
+
+local engine = QBPSearchEngine:new();
+for i = 10,1,-1
+do
+   engine:Search('Teste Script','Random 0 - Random Song',4,0,false);
+end
+return 'Processou Tudo'
+
+
+===================================
+Exemplo de busca de musica para cada algoritmo
+
+local engine = QBPSearchEngine:new();
+
+for i = 4,1,-1
+do
+   engine:Search('Teste Script','Random 0 - Random Song',4,i,false);
+end
+
+for i = 4,1,-1
+do
+   engine:Search('Teste Script','Random 1 - Random Song',4,i,false);
+end
+
+for i = 4,1,-1
+do
+   engine:Search('Teste Script','Random 2 - Random Song',4,i,false);
+end
+
+for i = 4,1,-1
+do
+   engine:Search('Teste Script','Random 3 - Random Song',4,i,false);
+end
+
+for i = 4,1,-1
+do
+   engine:Search('Teste Script','Random 4 - Random Song',4,i,false);
+end
+
+return 'Processou Musicas'
+
+===================================
+Exemplo de busca de musica para cada algoritmo incrementando de 10 em 10 o precision
+
+local engine = QBPSearchEngine:new();
+
+for i = 4,1,-1
+do
+   for j=0,100,10
+   do
+      engine:SetPrecisionBalance(j);
+      engine:Search('Precision Test','Random 0 - Random Song',4,i,false);
+   end
+end
+
+return 'Processou Teste de Precisão'

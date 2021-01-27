@@ -1,0 +1,151 @@
+*****************************************
+*Inicio Processo Busca Simples           
+*****************************************
+Tempo Inicial : 13:0:6 
+Musica de Busca: STR0017AtholBrose
+Experimento: SW
+Utiliza Atitude: Nao
+Total de Musicas 242 : 
+Total de ResultSet 51 : 
+STR0017AtholBrose;300
+JIG000010thBatCrossingRhine;206
+REE0002ABonnyLassToMerryMe;178
+WAL0012AWhistleOnTheWind;173
+HOR0003AcrossTheFence;172
+SJI0019BaltighoranThe;169
+HOR0000ASaluteToAngusChisholm;162
+SJI0012AngusJohnMacNeilOfBarra;157
+MAZ0002Aggies;152
+SLI0002AnSioda;149
+POL0016AnChilfhionnMarch;148
+HOR0016AnComhraDonn;148
+HOR0017AnDroicheadBheag;147
+REE0016AParcelOfLand;147
+BAR0013AroundTheFairyFort;146
+BAR0021BarleyAndChicory;144
+HOR0020AnPointe;139
+REE0010AGhostOfHisFormerSelf;137
+THR0016CodCheeksTongues;137
+JIG0016AJigForBernie;135
+MAZ0008BarnacleThe;134
+SLI0005AskMyFather;132
+STR0020BamsDogsEnglish;128
+JIG0006ABarrelOfKnives;126
+BAR0005AlbertFarmersBonfire;125
+SLI0010BallintoreThe;122
+REE0020ASconeForBreakfast;122
+WAL0019AislingGheal;121
+HOR0009Alexanders;121
+WAL0002ACostaDeGalicia;119
+SLI0011BangUp;117
+HOR0005AggieWhites;114
+STR0003ATripToMabouRidge;114
+STR0008AllowaKirk;114
+SJI0005APaddybird;113
+MAZ0006AssInTheGraveyardThe;112
+REE00011stAugust;112
+BAR0003AMarchForGivingThanks;111
+POL0001ABirthday;110
+SJI0003ACountryWedding;110
+JIG000368DuPetitSarny;109
+HOR0014AmericanPolkaThe;108
+MAZ0020CoburgThe;105
+POL0011Alborada;105
+BAR000072ndsFarewellToAberdeen;103
+POL0006AStonesThrow;103
+WAL0014AcrossTheDivide;103
+MAZ0011BigManThe;102
+THR0005BarnsleyAbacus;102
+MAZ0005AnTulach;101
+POL0012AlfredPaHultets;100
+Tempo Final : 13:0:7 
+*****************************************
+*Fim Processo Busca Simples              
+*****************************************
+Musica de Busca: STR0017AtholBrose
+Experimento: MUSSUM
+Utiliza Atitude: Nao
+*****************************************
+*Inicio Processo Busca Simples           
+*****************************************
+Tempo Inicial : 13:0:10 
+Total de Musicas 242 : 
+Total de ResultSet 22 : 
+STR0017AtholBrose;300
+STR0014AnnieLaurie;170
+STR0001ANewStrathspeyReel;155
+STR0020BamsDogsEnglish;149
+STR0021BanaisMairead;145
+STR0008AllowaKirk;141
+STR0003ATripToMabouRidge;139
+STR0002ATributeToElizabethBeaton;103
+STR0006AlexDanMacIsaacs;103
+STR0000AMhisgAChurAnLoligOirn;90
+STR0013AngusYoungs;87
+STR0009AmFaighirMuileach;86
+STR0016AnthonyMurrays;86
+STR0019AuldMansMaresDeadThe;86
+STR0005AACamerons;78
+STR0012AndersonFamilyFlingThe;78
+STR0015AnthonyDick;74
+STR0004AFIrving;72
+STR0011AnUglyCustomer;71
+STR0010AnMhallaidhGharbh;67
+STR0007AlisterMcAlister;64
+STR0018AuldHooseThe;45
+Tempo Final : 13:0:11 
+*****************************************
+*Fim Processo Busca Simples              
+*****************************************
+*****************************************
+*Inicio Processo Busca Simples           
+*****************************************
+Tempo Inicial : 13:0:15 
+Musica de Busca: STR0017AtholBrose
+Experimento: MUSSIX
+Utiliza Atitude: Nao
+Total de Musicas 242 : 
+Total de ResultSet 22 : 
+STR0017AtholBrose;300
+STR0020BamsDogsEnglish;167
+STR0021BanaisMairead;150
+STR0008AllowaKirk;120
+STR0005AACamerons;102
+STR0019AuldMansMaresDeadThe;102
+STR0000AMhisgAChurAnLoligOirn;97
+STR0006AlexDanMacIsaacs;96
+STR0009AmFaighirMuileach;96
+STR0003ATripToMabouRidge;85
+STR0011AnUglyCustomer;83
+STR0001ANewStrathspeyReel;74
+STR0014AnnieLaurie;73
+STR0010AnMhallaidhGharbh;65
+STR0012AndersonFamilyFlingThe;64
+STR0018AuldHooseThe;57
+STR0013AngusYoungs;50
+STR0007AlisterMcAlister;45
+STR0015AnthonyDick;39
+STR0016AnthonyMurrays;35
+STR0004AFIrving;31
+STR0002ATributeToElizabethBeaton;21
+Tempo Final : 13:0:16 
+*****************************************
+*Fim Processo Busca Simples              
+*****************************************
+*****************************************
+*Inicio Processo Busca Simples           
+*****************************************
+Tempo Inicial : 13:0:36 
+Musica de Busca: STR0017AtholBrose
+Experimento: MUSSIX
+Utiliza Atitude: Sim
+Total de Musicas 242 : 
+Total de ResultSet 4 : 
+STR0017AtholBrose;300
+STR0020BamsDogsEnglish;167
+STR0008AllowaKirk;120
+STR0014AnnieLaurie;73
+Tempo Final : 13:0:37 
+*****************************************
+*Fim Processo Busca Simples              
+*****************************************

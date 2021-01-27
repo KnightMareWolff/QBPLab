@@ -1,0 +1,744 @@
+*****************************************
+*  PROCESSO CARGA INICIADO              *
+*****************************************
+Tempo Inicial : 14:4:14 
+Tempo Final : 14:4:14 
+*****************************************
+*                                       *
+*****************************************
+*****************************************
+*  PROCESSO CARGA INICIADO              *
+*****************************************
+Tempo Inicial : 14:4:25 
+Tempo Final : 14:4:39 
+*****************************************
+*                                       *
+*****************************************
+*****************************************
+*Inicio Busca                           *
+*****************************************
+Tempo Inicial : 14:4:47 
+Musica Consultada : BAR0038Bourree
+Result List : 
+BAR0038Bourree 50 TP - True  Positive 
+THR0069SunderlandLassesThe 38 TN - True  Negative 
+REE0290BirdsNestThe 36 TN - True  Negative 
+REE3508TearTheCalico 35 TN - True  Negative 
+JIG1406KilmoveeThe 35 TN - True  Negative 
+JIG1259JanuaryThaw 35 TN - True  Negative 
+REE3158RyansRant 34 TN - True  Negative 
+REE1871Kellys 34 TN - True  Negative 
+JIG1113HoleInTheHedge 34 TN - True  Negative 
+SJI0230MyMindWillNeverBeEasy 33 TN - True  Negative 
+REE3066Rigneys 33 TN - True  Negative 
+REE2168LuckyCanDuLinkOny 33 TN - True  Negative 
+REE1557HoundsOfLetterfrack 33 TN - True  Negative 
+REE1035EileenOBriens 33 TN - True  Negative 
+REE0641CodladhSamh 33 TN - True  Negative 
+REE3550TibetanNationalAnthem 32 TN - True  Negative 
+REE3332SleepSoundInTheMorning 32 TN - True  Negative 
+STR0307TrossachsRoad 31 TN - True  Negative 
+REE3630TripToFanoreThe 31 TN - True  Negative 
+REE3609TraVaRuggitCreest 31 TN - True  Negative 
+Tempo Final : 14:4:49 
+*****************************************
+*Fim busca                              *
+*****************************************
+*****************************************
+*Inicio Busca                           *
+*****************************************
+Tempo Inicial : 14:4:49 
+Musica Consultada : BAR0038Bourree
+Result List : 
+BAR0038Bourree 50 TP - True  Positive 
+THR0069SunderlandLassesThe 47 FP - False Positive 
+JIG0236BethansDance 47 FP - False Positive 
+WAL0662WaltzForTracey 46 FP - False Positive 
+REE3757WayfaringThe 46 FP - False Positive 
+REE2710OldTomOfOxford 46 FP - False Positive 
+JIG0946GallowglassRantThe 46 FP - False Positive 
+SJI0122GirlsOfGrindavikThe 45 FP - False Positive 
+REE0003ABretonInParis 45 FP - False Positive 
+POL0486OtherClogThe 45 FP - False Positive 
+JIG2141RockingChairThe 45 FP - False Positive 
+JIG1156HumoursOfCastlelyonsThe 45 FP - False Positive 
+SLI0034Coolfin 44 TN - True  Negative 
+REE3627TripToDublinThe 44 TN - True  Negative 
+REE3599TorridRomanceThe 44 TN - True  Negative 
+REE3113RockThe 44 TN - True  Negative 
+REE1557HoundsOfLetterfrack 44 TN - True  Negative 
+REE1467HarvestMoon 44 TN - True  Negative 
+REE1046ElzicsFarewell 44 TN - True  Negative 
+REE0286BillyWilson 44 TN - True  Negative 
+Tempo Final : 14:4:53 
+*****************************************
+*Fim busca                              *
+*****************************************
+*****************************************
+*Inicio Busca                           *
+*****************************************
+Tempo Inicial : 14:4:53 
+Musica Consultada : BAR0038Bourree
+Result List : 
+BAR0038Bourree 50 TP - True  Positive 
+JIG1252JamesAndTheGiantPeach 47 FP - False Positive 
+REE3078RizlaThe 46 FP - False Positive 
+REE0411BridgeAttack 46 FP - False Positive 
+POL0555Salton 46 FP - False Positive 
+JIG1708MorganRattler 46 FP - False Positive 
+JIG2118Riverdance 45 FP - False Positive 
+HOR0339HenryCaves 45 FP - False Positive 
+THR0057PolskaFromEnviken 44 TN - True  Negative 
+REE2660OConnellsFarewellToDublin 44 TN - True  Negative 
+REE1478HeartlandPart1 44 TN - True  Negative 
+REE0021AShepherdsDream 44 TN - True  Negative 
+HOR0654RamblingRakeThe 44 TN - True  Negative 
+HOR0202DownfallOfParisThe 44 TN - True  Negative 
+BAR0181MerryMaidsPolkaThe 44 FN - False Negative 
+SJI0018BachsFrolics 43 TN - True  Negative 
+SLI0204SulemansKopanitsa 43 TN - True  Negative 
+SLI0010BallintoreThe 43 TN - True  Negative 
+REE3212SchoolReels 43 TN - True  Negative 
+REE2973RatInTheKitchenThe 43 TN - True  Negative 
+Tempo Final : 14:5:14 
+*****************************************
+*Fim busca                              *
+*****************************************
+*****************************************
+*Inicio Busca                           *
+*****************************************
+Tempo Inicial : 14:5:14 
+Musica Consultada : BAR0038Bourree
+Result List : 
+BAR0038Bourree 50 TP - True  Positive 
+HOR0339HenryCaves 45 FP - False Positive 
+REE2660OConnellsFarewellToDublin 44 TN - True  Negative 
+REE0021AShepherdsDream 44 TN - True  Negative 
+HOR0202DownfallOfParisThe 44 TN - True  Negative 
+SLI0010BallintoreThe 43 TN - True  Negative 
+REE3212SchoolReels 43 TN - True  Negative 
+REE2093LindenRise 43 TN - True  Negative 
+REE0654ColonelFrasers 43 TN - True  Negative 
+REE0432BrownHatThe 43 TN - True  Negative 
+REE0285BillyNicholson 43 TN - True  Negative 
+HOR0656ReaperOfGlenreeThe 43 TN - True  Negative 
+HOR0275FullOfTheBagThe 43 TN - True  Negative 
+WAL0662WaltzForTracey 42 TN - True  Negative 
+REE3733VodkaForBreakfast 42 TN - True  Negative 
+REE3422StarOfKilkennyThe 42 TN - True  Negative 
+REE3193SandPitThe 42 TN - True  Negative 
+REE2581NancyTaylors 42 TN - True  Negative 
+REE2041LeRossignol 42 TN - True  Negative 
+REE1370GooseGirlKissedMeOnMayDayMornThe 42 TN - True  Negative 
+Tempo Final : 14:5:20 
+*****************************************
+*Fim busca                              *
+*****************************************
+*****************************************
+*Inicio Busca                           *
+*****************************************
+Tempo Inicial : 14:5:20 
+Musica Consultada : MAZ0002Aggies
+Result List : 
+MAZ0002Aggies 50 TP - True  Positive 
+HOR0213EamonnMcGivneys 43 TN - True  Negative 
+REE3566TivoliCapers 42 TN - True  Negative 
+REE2631NightOwlTimeThe 42 TN - True  Negative 
+REE2166LowRoadToGlinThe 42 TN - True  Negative 
+JIG0658Denys 42 TN - True  Negative 
+REE1858KatherineOMore 41 TN - True  Negative 
+REE1783JohnKellysConcertina 41 TN - True  Negative 
+HOR0508MauriceDuncansTripToBallycastle 41 TN - True  Negative 
+REE3549ThunderstormThe 40 TN - True  Negative 
+REE2496MossyBanksThe 40 TN - True  Negative 
+REE2343MegumisGift 40 TN - True  Negative 
+REE2331McGreevys 40 TN - True  Negative 
+REE2327McGettricks 40 TN - True  Negative 
+POL0182DenisOKeeffes 40 TN - True  Negative 
+JIG1396KilglassLakes 40 TN - True  Negative 
+JIG1226IsabelaBlackley 40 TN - True  Negative 
+JIG1205IndependentThe 40 TN - True  Negative 
+JIG0941Galician 40 TN - True  Negative 
+HOR0544MoonOverFridayHarbor 40 TN - True  Negative 
+Tempo Final : 14:5:22 
+*****************************************
+*Fim busca                              *
+*****************************************
+*****************************************
+*Inicio Busca                           *
+*****************************************
+Tempo Inicial : 14:5:22 
+Musica Consultada : MAZ0002Aggies
+Result List : 
+MAZ0002Aggies 50 TP - True  Positive 
+REE1889KilavilThe 49 FP - False Positive 
+JIG2356StrayawayChildThe 48 FP - False Positive 
+JIG1310Joes 48 FP - False Positive 
+JIG1183HurryTheJug 48 FP - False Positive 
+JIG0824FarewellToLisheen 48 FP - False Positive 
+HOR0201DownTheGlen 48 FP - False Positive 
+REE2755OverTheMoorAmongTheHeather 47 FP - False Positive 
+REE1371GooseberryBushThe 47 FP - False Positive 
+REE0120AnnDroneys 47 FP - False Positive 
+JIG1893Orcadian 47 FP - False Positive 
+JIG1578MaidsOfPalmyraThe 47 FP - False Positive 
+JIG0517ClaptonThe 47 FP - False Positive 
+JIG0482CharlesOConnor 47 FP - False Positive 
+HOR0668RisingOfTheSunThe 47 FP - False Positive 
+HOR0494MadraMorMadraBeag 47 FP - False Positive 
+WAL0528RoadTogetherThe 46 FP - False Positive 
+WAL0482OttersThe 46 FP - False Positive 
+REE2771PaddyInPreston 46 FP - False Positive 
+REE2515MovingCloudThe 46 FP - False Positive 
+Tempo Final : 14:5:26 
+*****************************************
+*Fim busca                              *
+*****************************************
+*****************************************
+*Inicio Busca                           *
+*****************************************
+Tempo Inicial : 14:5:26 
+Musica Consultada : MAZ0002Aggies
+Result List : 
+MAZ0002Aggies 50 TP - True  Positive 
+REE2362MichaelGallaghersFancy 44 TN - True  Negative 
+REE0021AShepherdsDream 44 TN - True  Negative 
+JIG1855OffToPuckFair 44 TN - True  Negative 
+JIG0795EndOfTheWorldThe 44 TN - True  Negative 
+JIG000010thBatCrossingRhine 44 TN - True  Negative 
+HOR0409JohnKimmelsAccordionFantasy 44 TN - True  Negative 
+HOR0408JohnJKimmelsFavourite 44 TN - True  Negative 
+REE3193SandPitThe 43 TN - True  Negative 
+REE2143LordGordons 43 TN - True  Negative 
+REE1749JobOfJourneyworkThe 43 TN - True  Negative 
+REE0411BridgeAttack 43 TN - True  Negative 
+JIG1138HouseholdBrigadeThe 43 TN - True  Negative 
+JIG0490CherishTheLadies 43 TN - True  Negative 
+HOR0698SermonThe 43 TN - True  Negative 
+HOR0639PresidentNixons 43 TN - True  Negative 
+HOR0189DerryThe 43 TN - True  Negative 
+BAR0197NewIrish 43 TN - True  Negative 
+WAL0561ShetlandBusThe 42 TN - True  Negative 
+REE3566TivoliCapers 42 TN - True  Negative 
+Tempo Final : 14:5:47 
+*****************************************
+*Fim busca                              *
+*****************************************
+*****************************************
+*Inicio Busca                           *
+*****************************************
+Tempo Inicial : 14:5:47 
+Musica Consultada : MAZ0002Aggies
+Result List : 
+MAZ0002Aggies 50 TP - True  Positive 
+REE2362MichaelGallaghersFancy 44 TN - True  Negative 
+REE0021AShepherdsDream 44 TN - True  Negative 
+JIG1855OffToPuckFair 44 TN - True  Negative 
+HOR0409JohnKimmelsAccordionFantasy 44 TN - True  Negative 
+REE2143LordGordons 43 TN - True  Negative 
+JIG1138HouseholdBrigadeThe 43 TN - True  Negative 
+JIG0490CherishTheLadies 43 TN - True  Negative 
+HOR0698SermonThe 43 TN - True  Negative 
+WAL0561ShetlandBusThe 42 TN - True  Negative 
+REE2487MorningMist 42 TN - True  Negative 
+REE2004LasherThe 42 TN - True  Negative 
+HOR0368HuckleberryThe 42 TN - True  Negative 
+REE3733VodkaForBreakfast 41 TN - True  Negative 
+REE1729Jewish 41 TN - True  Negative 
+HOR0530MillQuayThe 41 TN - True  Negative 
+HOR0508MauriceDuncansTripToBallycastle 41 TN - True  Negative 
+HOR0379InishmurrayThe 41 TN - True  Negative 
+HOR0251FleeAsABird 41 TN - True  Negative 
+BAR0138KittyOSheas 41 TN - True  Negative 
+Tempo Final : 14:5:49 
+*****************************************
+*Fim busca                              *
+*****************************************
+*****************************************
+*Inicio Busca                           *
+*****************************************
+Tempo Inicial : 14:5:49 
+Musica Consultada : REE0049AggieWhytes
+Result List : 
+REE0049AggieWhytes 50 TP - True  Positive 
+REE0184BaldBishopsThe 44 FN - False Negative 
+REE3847WyndingTheHay 43 FN - False Negative 
+WAL0621TommyBhettys 42 TN - True  Negative 
+SJI0092EmmasHop 42 TN - True  Negative 
+REE2690OldLordGordons 42 FN - False Negative 
+REE2143LordGordons 42 FN - False Negative 
+REE1864KatyHill 42 FN - False Negative 
+REE1448HangOn 42 FN - False Negative 
+REE0697CorasTune 42 FN - False Negative 
+JIG1459LancersThe 42 TN - True  Negative 
+HOR0443KittysWedding 42 TN - True  Negative 
+WAL0695WyresMegan 41 TN - True  Negative 
+SJI0109FollowHerOverTheBorder 41 TN - True  Negative 
+REE1998LarkinsBeehive 41 FN - False Negative 
+REE0983DukeOfLeinsterThe 41 FN - False Negative 
+REE0242BeehiveThe 41 FN - False Negative 
+HOR0040AutumnLeaves 41 TN - True  Negative 
+BAR0109IWontBeANun 41 TN - True  Negative 
+WAL0351LochRannoch 40 TN - True  Negative 
+Tempo Final : 14:5:52 
+*****************************************
+*Fim busca                              *
+*****************************************
+*****************************************
+*Inicio Busca                           *
+*****************************************
+Tempo Inicial : 14:5:52 
+Musica Consultada : REE0049AggieWhytes
+Result List : 
+REE0049AggieWhytes 50 TP - True  Positive 
+REE3605TourOfScotland 48 TP - True  Positive 
+REE3172SailorsBonnetThe 47 TP - True  Positive 
+REE0184BaldBishopsThe 47 TP - True  Positive 
+JIG0139Armstrongs 47 FP - False Positive 
+WAL0282JewelsOfTheOceanThe 46 FP - False Positive 
+WAL0230GlenMassan 46 FP - False Positive 
+REE3227SeamusEnnissFancy 46 TP - True  Positive 
+REE3096RoadToSligoThe 46 TP - True  Positive 
+REE2156Loughcurra 46 TP - True  Positive 
+REE1898KillavilFancyThe 46 TP - True  Positive 
+REE1170Flahertys 46 TP - True  Positive 
+JIG0840FatherJohnsJubilee 46 FP - False Positive 
+JIG0683DobermansWalletThe 46 FP - False Positive 
+HOR0331Harts 46 FP - False Positive 
+HOR0000ASaluteToAngusChisholm 46 FP - False Positive 
+STR0317WelcomeWhiskeyBackAgain 45 FP - False Positive 
+SLI0034Coolfin 45 FP - False Positive 
+REE3205SarahsFiddle 45 TP - True  Positive 
+REE2771PaddyInPreston 45 TP - True  Positive 
+Tempo Final : 14:5:56 
+*****************************************
+*Fim busca                              *
+*****************************************
+*****************************************
+*Inicio Busca                           *
+*****************************************
+Tempo Inicial : 14:5:56 
+Musica Consultada : REE0049AggieWhytes
+Result List : 
+REE0049AggieWhytes 50 TP - True  Positive 
+REE0389BrandyCulotte 45 TP - True  Positive 
+JIG1252JamesAndTheGiantPeach 45 FP - False Positive 
+JIG0267BlackFrogThe 45 FP - False Positive 
+HOR0544MoonOverFridayHarbor 45 FP - False Positive 
+HOR0348HighLevelThe 45 FP - False Positive 
+REE3733VodkaForBreakfast 44 FN - False Negative 
+REE3566TivoliCapers 44 FN - False Negative 
+REE2625Newfoundland 44 FN - False Negative 
+REE2172LucyCassidy 44 FN - False Negative 
+REE2143LordGordons 44 FN - False Negative 
+REE0654ColonelFrasers 44 FN - False Negative 
+HOR0790TripToCultraThe 44 TN - True  Negative 
+HOR0409JohnKimmelsAccordionFantasy 44 TN - True  Negative 
+HOR0408JohnJKimmelsFavourite 44 TN - True  Negative 
+HOR0403JoeMcGannsFiddle 44 TN - True  Negative 
+HOR0189DerryThe 44 TN - True  Negative 
+REE3444StraitsOfSherkinThe 43 FN - False Negative 
+REE3212SchoolReels 43 FN - False Negative 
+REE1478HeartlandPart1 43 FN - False Negative 
+Tempo Final : 14:6:16 
+*****************************************
+*Fim busca                              *
+*****************************************
+*****************************************
+*Inicio Busca                           *
+*****************************************
+Tempo Inicial : 14:6:16 
+Musica Consultada : REE0049AggieWhytes
+Result List : 
+REE0049AggieWhytes 50 TP - True  Positive 
+REE0389BrandyCulotte 45 TP - True  Positive 
+JIG0267BlackFrogThe 45 FP - False Positive 
+HOR0544MoonOverFridayHarbor 45 FP - False Positive 
+HOR0348HighLevelThe 45 FP - False Positive 
+REE3733VodkaForBreakfast 44 FN - False Negative 
+REE3566TivoliCapers 44 FN - False Negative 
+REE2625Newfoundland 44 FN - False Negative 
+REE2172LucyCassidy 44 FN - False Negative 
+REE2143LordGordons 44 FN - False Negative 
+REE0654ColonelFrasers 44 FN - False Negative 
+HOR0790TripToCultraThe 44 TN - True  Negative 
+HOR0409JohnKimmelsAccordionFantasy 44 TN - True  Negative 
+HOR0408JohnJKimmelsFavourite 44 TN - True  Negative 
+HOR0403JoeMcGannsFiddle 44 TN - True  Negative 
+HOR0189DerryThe 44 TN - True  Negative 
+REE3444StraitsOfSherkinThe 43 FN - False Negative 
+REE3212SchoolReels 43 FN - False Negative 
+REE1121FernyHill 43 FN - False Negative 
+REE0112AndyMStewarts 43 FN - False Negative 
+Tempo Final : 14:6:33 
+*****************************************
+*Fim busca                              *
+*****************************************
+*****************************************
+*Inicio Busca                           *
+*****************************************
+Tempo Inicial : 14:6:33 
+Musica Consultada : SLI0049DenisMurphys
+Result List : 
+SLI0049DenisMurphys 50 TP - True  Positive 
+REE2317McBrides 45 FP - False Positive 
+JIG0373BrotherGildas 44 TN - True  Negative 
+REE2547Muckas 43 TN - True  Negative 
+JIG0139Armstrongs 43 TN - True  Negative 
+SLI0089JohnnyOLearys 42 FN - False Negative 
+REE2885PloughAndTheStarsThe 42 TN - True  Negative 
+REE0413BridgeOfGlllass 42 TN - True  Negative 
+REE3205SarahsFiddle 41 TN - True  Negative 
+REE2914PrideOfCluinteThe 41 TN - True  Negative 
+REE2567MusicalEgoThe 41 TN - True  Negative 
+REE1144Finnegans 41 TN - True  Negative 
+JIG1661MillersMaggotThe 41 TN - True  Negative 
+HOR0409JohnKimmelsAccordionFantasy 41 TN - True  Negative 
+HOR0297GlenbeighThe 41 TN - True  Negative 
+REE3607TownTeine 40 TN - True  Negative 
+REE3452StringTraderThe 40 TN - True  Negative 
+REE2478MoragsNumberTwo 40 TN - True  Negative 
+REE1998LarkinsBeehive 40 TN - True  Negative 
+REE1868KeeneysFarewell 40 TN - True  Negative 
+Tempo Final : 14:6:35 
+*****************************************
+*Fim busca                              *
+*****************************************
+*****************************************
+*Inicio Busca                           *
+*****************************************
+Tempo Inicial : 14:6:35 
+Musica Consultada : SLI0049DenisMurphys
+Result List : 
+SLI0049DenisMurphys 50 TP - True  Positive 
+REE3689TwoBirdsInTheBushThe 47 FP - False Positive 
+JIG1879OldThe 47 FP - False Positive 
+HOR0839YoughalHarbour 47 FP - False Positive 
+REE3596TornCurtainThe 46 FP - False Positive 
+REE2547Muckas 46 FP - False Positive 
+REE2496MossyBanksThe 46 FP - False Positive 
+REE2367MichaelsMatches 46 FP - False Positive 
+REE1693JanetGeater 46 FP - False Positive 
+POL0027Annaghbeg 46 FP - False Positive 
+JIG1110HoldUpTheSky 46 FP - False Positive 
+WAL0008AStorMoChroi 45 FP - False Positive 
+STR0112GanAinm 45 FP - False Positive 
+STR0032BletherskateThe 45 FP - False Positive 
+REE3731VirginiaThe 45 FP - False Positive 
+REE3504Tavanagh 45 FP - False Positive 
+REE3144RosehallStrapThe 45 FP - False Positive 
+REE2495MortgageBurnThe 45 FP - False Positive 
+REE2317McBrides 45 FP - False Positive 
+REE1304GeorgeWhitesFavorite 45 FP - False Positive 
+Tempo Final : 14:6:39 
+*****************************************
+*Fim busca                              *
+*****************************************
+*****************************************
+*Inicio Busca                           *
+*****************************************
+Tempo Inicial : 14:6:39 
+Musica Consultada : SLI0049DenisMurphys
+Result List : 
+SLI0049DenisMurphys 50 TP - True  Positive 
+REE3212SchoolReels 50 FP - False Positive 
+REE3078RizlaThe 50 FP - False Positive 
+REE1183FloatingCandles 50 FP - False Positive 
+JIG1708MorganRattler 50 FP - False Positive 
+WAL0511PortAtholl 49 FP - False Positive 
+WAL0110CarrickTinkerThe 49 FP - False Positive 
+SLI0010BallintoreThe 49 TP - True  Positive 
+REE3565TirNaMBan 49 FP - False Positive 
+REE1179FlickItUpAndCatchIt 49 FP - False Positive 
+POL0513PlanxtyDavis 49 FP - False Positive 
+JIG2356StrayawayChildThe 49 FP - False Positive 
+JIG1792NelsonMandelasWelcomeToGlasgow 49 FP - False Positive 
+JIG1694Moms 49 FP - False Positive 
+JIG1372KeeperHill 49 FP - False Positive 
+JIG0644DawnChorusThe 49 FP - False Positive 
+JIG0414CameronMcFadyen 49 FP - False Positive 
+HOR0634PortlandThe 49 FP - False Positive 
+HOR0348HighLevelThe 49 FP - False Positive 
+HOR0202DownfallOfParisThe 49 FP - False Positive 
+Tempo Final : 14:7:0 
+*****************************************
+*Fim busca                              *
+*****************************************
+*****************************************
+*Inicio Busca                           *
+*****************************************
+Tempo Inicial : 14:7:0 
+Musica Consultada : SLI0049DenisMurphys
+Result List : 
+SLI0049DenisMurphys 50 TP - True  Positive 
+REE3212SchoolReels 50 FP - False Positive 
+REE3078RizlaThe 50 FP - False Positive 
+WAL0511PortAtholl 49 FP - False Positive 
+WAL0110CarrickTinkerThe 49 FP - False Positive 
+SLI0010BallintoreThe 49 TP - True  Positive 
+JIG1372KeeperHill 49 FP - False Positive 
+HOR0634PortlandThe 49 FP - False Positive 
+HOR0202DownfallOfParisThe 49 FP - False Positive 
+BAR0197NewIrish 49 FP - False Positive 
+WAL0669WaltzOfTheWhiteLilies 48 FP - False Positive 
+WAL0408Midwinter 48 FP - False Positive 
+STR0322WillYouLendMeYourLoomLass 48 FP - False Positive 
+STR0059CastleBray 48 FP - False Positive 
+REE3444StraitsOfSherkinThe 48 FP - False Positive 
+REE0868DesertStorm 48 FP - False Positive 
+REE0413BridgeOfGlllass 48 FP - False Positive 
+REE0411BridgeAttack 48 FP - False Positive 
+REE0310BlairAthol 48 FP - False Positive 
+POL0151Corrievreckan 48 FP - False Positive 
+Tempo Final : 14:7:11 
+*****************************************
+*Fim busca                              *
+*****************************************
+*****************************************
+*Inicio Busca                           *
+*****************************************
+Tempo Inicial : 14:7:11 
+Musica Consultada : SJI0032BoysOfBallisodareThe
+Result List : 
+SJI0032BoysOfBallisodareThe 50 TP - True  Positive 
+SJI0223MomsBirthdayOnJuly27th 44 FN - False Negative 
+REE3641TripToPeterswellThe 44 TN - True  Negative 
+REE3658TuneTheFlute 43 TN - True  Negative 
+REE1898KillavilFancyThe 43 TN - True  Negative 
+REE1141FingerlessGlovesThe 43 TN - True  Negative 
+REE0884DiddaThe 43 TN - True  Negative 
+REE0610ClearwaterThe 43 TN - True  Negative 
+JIG1882OnTheStrand 43 TN - True  Negative 
+REE3031ReelOfEiscirRiada 42 TN - True  Negative 
+REE1723JerryOSullivans 42 TN - True  Negative 
+REE0831DaveWhites 42 TN - True  Negative 
+REE0106Andersons 42 TN - True  Negative 
+JIG2527TuroeStoneThe 42 TN - True  Negative 
+REE3322SkipperAndCompany 41 TN - True  Negative 
+REE2945RaRas 41 TN - True  Negative 
+REE2409MissDunbarr 41 TN - True  Negative 
+REE2283MartinHunters 41 TN - True  Negative 
+REE1921KittenFeelsBetterThe 41 TN - True  Negative 
+REE1370GooseGirlKissedMeOnMayDayMornThe 41 TN - True  Negative 
+Tempo Final : 14:7:14 
+*****************************************
+*Fim busca                              *
+*****************************************
+*****************************************
+*Inicio Busca                           *
+*****************************************
+Tempo Inicial : 14:7:14 
+Musica Consultada : SJI0032BoysOfBallisodareThe
+Result List : 
+SJI0032BoysOfBallisodareThe 50 TP - True  Positive 
+REE2830Persistence 49 FP - False Positive 
+REE1723JerryOSullivans 48 FP - False Positive 
+JIG1255JamesMcMahons 48 FP - False Positive 
+HOR0342HerLongDarkHairFlowingDownHerBack 48 FP - False Positive 
+REE3627TripToDublinThe 47 FP - False Positive 
+REE3031ReelOfEiscirRiada 47 FP - False Positive 
+REE1717JeromesFarewellToGibraltar 47 FP - False Positive 
+REE1170Flahertys 47 FP - False Positive 
+REE0610ClearwaterThe 47 FP - False Positive 
+REE0367BotharNaSop 47 FP - False Positive 
+POL0481OpenHouse 47 FP - False Positive 
+JIG1310Joes 47 FP - False Positive 
+JIG0824FarewellToLisheen 47 FP - False Positive 
+WAL0676WaveSweeperThe 46 FP - False Positive 
+WAL0669WaltzOfTheWhiteLilies 46 FP - False Positive 
+SJI0291ShipsInTheNight 46 TP - True  Positive 
+SJI0275RoadToBarga 46 TP - True  Positive 
+REE3559TimmysPlace 46 FP - False Positive 
+REE2629Niamhs 46 FP - False Positive 
+Tempo Final : 14:7:18 
+*****************************************
+*Fim busca                              *
+*****************************************
+*****************************************
+*Inicio Busca                           *
+*****************************************
+Tempo Inicial : 14:7:18 
+Musica Consultada : SJI0032BoysOfBallisodareThe
+Result List : 
+SJI0032BoysOfBallisodareThe 50 TP - True  Positive 
+WAL0511PortAtholl 48 FP - False Positive 
+WAL0669WaltzOfTheWhiteLilies 47 FP - False Positive 
+REE3193SandPitThe 47 FP - False Positive 
+JIG1252JamesAndTheGiantPeach 47 FP - False Positive 
+HOR0249Fitzgeralds 47 FP - False Positive 
+WAL0486PaddysPerambulations 46 FP - False Positive 
+REE2003LarrysFavourite 46 FP - False Positive 
+REE0411BridgeAttack 46 FP - False Positive 
+JIG0795EndOfTheWorldThe 46 FP - False Positive 
+JIG0678DinnyDelaneys 46 FP - False Positive 
+HOR0409JohnKimmelsAccordionFantasy 46 FP - False Positive 
+HOR0408JohnJKimmelsFavourite 46 FP - False Positive 
+HOR0364HoolieInTheHub 46 FP - False Positive 
+HOR0156ComradeFinleys 46 FP - False Positive 
+BAR0197NewIrish 46 FP - False Positive 
+BAR0188MountainStreamThe 46 FP - False Positive 
+WAL0664WaltzFromOrsa 45 FP - False Positive 
+SJI0225MoolahRouge 45 TP - True  Positive 
+REE3742WalrusThe 45 FP - False Positive 
+Tempo Final : 14:7:38 
+*****************************************
+*Fim busca                              *
+*****************************************
+*****************************************
+*Inicio Busca                           *
+*****************************************
+Tempo Inicial : 14:7:38 
+Musica Consultada : SJI0032BoysOfBallisodareThe
+Result List : 
+SJI0032BoysOfBallisodareThe 50 TP - True  Positive 
+REE3212SchoolReels 45 FP - False Positive 
+REE2143LordGordons 45 FP - False Positive 
+HOR0698SermonThe 45 FP - False Positive 
+REE2669OMahoneys 44 TN - True  Negative 
+MAZ0093SeanMcGlynns 44 TN - True  Negative 
+JIG0490CherishTheLadies 44 TN - True  Negative 
+REE1513HighRoadToLyonThe 43 TN - True  Negative 
+REE0021AShepherdsDream 43 TN - True  Negative 
+JIG1855OffToPuckFair 43 TN - True  Negative 
+WAL0513PrettyPondLilyThe 42 TN - True  Negative 
+WAL0420MorfarFrenhines 42 TN - True  Negative 
+THR0048MrKeys 42 TN - True  Negative 
+THR0030Heartsease 42 TN - True  Negative 
+THR0003AnDrochaidChliteach 42 TN - True  Negative 
+THR0002AltrinchamRound 42 TN - True  Negative 
+STR0116GeorgeMcHardy 42 TN - True  Negative 
+REE2380MikesRide 42 TN - True  Negative 
+REE1704JennieRockingTheCradle 42 TN - True  Negative 
+HOR0790TripToCultraThe 42 TN - True  Negative 
+Tempo Final : 14:7:40 
+*****************************************
+*Fim busca                              *
+*****************************************
+*****************************************
+*Inicio Busca                           *
+*****************************************
+Tempo Inicial : 14:7:40 
+Musica Consultada : SJI0033Bradys
+Result List : 
+SJI0033Bradys 50 TP - True  Positive 
+MAZ0092SallbacherMasur 40 TN - True  Negative 
+JIG2083RakesOfKildareThe 40 TN - True  Negative 
+JIG0916Frahers 39 TN - True  Negative 
+SJI0275RoadToBarga 38 FN - False Negative 
+REE2254ManWithTwoWomenThe 38 TN - True  Negative 
+REE1982LadyOfTheHouseThe 38 TN - True  Negative 
+REE1730JiggingTheDonkey 38 TN - True  Negative 
+REE1223FoxOnTheProwlThe 38 TN - True  Negative 
+REE0450BunnysHatThe 38 TN - True  Negative 
+REE0389BrandyCulotte 38 TN - True  Negative 
+POL0488PaPaddyOSullivans 38 TN - True  Negative 
+JIG2625Wills 38 TN - True  Negative 
+JIG2427ThornHedgeThe 38 TN - True  Negative 
+HOR0373HumoursOfTullycrineThe 38 TN - True  Negative 
+STR0116GeorgeMcHardy 37 TN - True  Negative 
+REE1006EarlyEvening 37 TN - True  Negative 
+JIG2484TreasuresMoneyCantBuyThe 37 TN - True  Negative 
+JIG2172RossBatteryMarch 37 TN - True  Negative 
+JIG0743DryfeLodge 37 TN - True  Negative 
+Tempo Final : 14:7:42 
+*****************************************
+*Fim busca                              *
+*****************************************
+*****************************************
+*Inicio Busca                           *
+*****************************************
+Tempo Inicial : 14:7:42 
+Musica Consultada : SJI0033Bradys
+Result List : 
+SJI0033Bradys 50 TP - True  Positive 
+REE1757JoeMaddens 46 FP - False Positive 
+REE2861PinnacleRidge 45 FP - False Positive 
+REE1398GreenFieldsOfGlentownThe 45 FP - False Positive 
+BAR0111IfWeHadntAnyWomenInTheWorld 45 FP - False Positive 
+REE3826WishboneThe 44 TN - True  Negative 
+REE2702OldMotherFlanagan 44 TN - True  Negative 
+REE2653NotFarFromHome 44 TN - True  Negative 
+REE1998LarkinsBeehive 44 TN - True  Negative 
+REE1713JennysFolly 44 TN - True  Negative 
+REE0900DixieThe 44 TN - True  Negative 
+REE0654ColonelFrasers 44 TN - True  Negative 
+JIG0738DrunkenGaugerThe 44 TN - True  Negative 
+WAL0261IfEverYouWereMine 43 TN - True  Negative 
+REE3323SkippingLambs 43 TN - True  Negative 
+REE3256ShamrockHill 43 TN - True  Negative 
+REE2991RedBoxThe 43 TN - True  Negative 
+REE2745OttersHoltThe 43 TN - True  Negative 
+REE1784JohnKellys 43 TN - True  Negative 
+REE1567HughieTravers 43 TN - True  Negative 
+Tempo Final : 14:7:47 
+*****************************************
+*Fim busca                              *
+*****************************************
+*****************************************
+*Inicio Busca                           *
+*****************************************
+Tempo Inicial : 14:7:47 
+Musica Consultada : SJI0033Bradys
+Result List : 
+SJI0033Bradys 50 TP - True  Positive 
+HOR0409JohnKimmelsAccordionFantasy 48 FP - False Positive 
+REE2143LordGordons 47 FP - False Positive 
+JIG1252JamesAndTheGiantPeach 46 FP - False Positive 
+JIG0490CherishTheLadies 46 FP - False Positive 
+JIG000010thBatCrossingRhine 46 FP - False Positive 
+WAL0511PortAtholl 45 FP - False Positive 
+REE0411BridgeAttack 45 FP - False Positive 
+JIG2587WayOutYonder 45 FP - False Positive 
+JIG1468LarksMarchThe 45 FP - False Positive 
+JIG0267BlackFrogThe 45 FP - False Positive 
+HOR0824WilliamSouthernClarkes 45 FP - False Positive 
+HOR0508MauriceDuncansTripToBallycastle 45 FP - False Positive 
+HOR0348HighLevelThe 45 FP - False Positive 
+BAR0197NewIrish 45 FP - False Positive 
+WAL0672WarriorsDream 44 TN - True  Negative 
+WAL0314LaBourrasque 44 TN - True  Negative 
+THR0003AnDrochaidChliteach 44 TN - True  Negative 
+THR0002AltrinchamRound 44 TN - True  Negative 
+REE3733VodkaForBreakfast 44 TN - True  Negative 
+Tempo Final : 14:8:7 
+*****************************************
+*Fim busca                              *
+*****************************************
+*****************************************
+*Inicio Busca                           *
+*****************************************
+Tempo Inicial : 14:8:7 
+Musica Consultada : SJI0033Bradys
+Result List : 
+SJI0033Bradys 50 TP - True  Positive 
+HOR0409JohnKimmelsAccordionFantasy 48 FP - False Positive 
+REE2143LordGordons 47 FP - False Positive 
+JIG1252JamesAndTheGiantPeach 46 FP - False Positive 
+JIG0490CherishTheLadies 46 FP - False Positive 
+JIG000010thBatCrossingRhine 46 FP - False Positive 
+WAL0511PortAtholl 45 FP - False Positive 
+REE0411BridgeAttack 45 FP - False Positive 
+JIG2587WayOutYonder 45 FP - False Positive 
+JIG1468LarksMarchThe 45 FP - False Positive 
+JIG0267BlackFrogThe 45 FP - False Positive 
+HOR0824WilliamSouthernClarkes 45 FP - False Positive 
+HOR0508MauriceDuncansTripToBallycastle 45 FP - False Positive 
+HOR0348HighLevelThe 45 FP - False Positive 
+BAR0197NewIrish 45 FP - False Positive 
+WAL0314LaBourrasque 44 TN - True  Negative 
+THR0003AnDrochaidChliteach 44 TN - True  Negative 
+THR0002AltrinchamRound 44 TN - True  Negative 
+REE3733VodkaForBreakfast 44 TN - True  Negative 
+REE3323SkippingLambs 44 TN - True  Negative 
+Tempo Final : 14:8:25 
+*****************************************
+*Fim busca                              *
+*****************************************
+=================================================================
+Relatório Precision , Recall , FMeasure , Accuracy , MRR , MSCD  
+=================================================================
+Busca : SW Precision : 0.916667 Recall: 0.598483 FMeasure: 0.666683 Accuracy: 0.0583333 MRR: 1 MSCD: 0.622223 
+Busca : Mussum Precision : 0.18055 Recall: 1 FMeasure: 0.274683 Accuracy: 0.808333 MRR: 1 MSCD: 0.211113 
+Busca : Mussix Precision : 0.2875 Recall: 0.7803 FMeasure: 0.32065 Accuracy: 0.583333 MRR: 1 MSCD: 0.244443 
+Busca : Attitude-Gram Precision : 0.340486 Recall: 0.880957 FMeasure: 0.390543 Accuracy: 0.442857 MRR: 1 MSCD: 0.295237 
+=========================================

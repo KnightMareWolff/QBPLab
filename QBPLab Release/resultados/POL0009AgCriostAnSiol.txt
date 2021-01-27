@@ -1,0 +1,111 @@
+*****************************************
+*Inicio Processo Busca Simples           
+*****************************************
+Tempo Inicial : 13:6:33 
+Musica de Busca: POL0009AgCriostAnSiol
+Experimento: SW
+Utiliza Atitude: Nao
+Total de Musicas 242 : 
+Total de ResultSet 1 : 
+POL0009AgCriostAnSiol;129
+Tempo Final : 13:6:33 
+*****************************************
+*Fim Processo Busca Simples              
+*****************************************
+Musica de Busca: POL0009AgCriostAnSiol
+Experimento: MUSSUM
+Utiliza Atitude: Nao
+*****************************************
+*Inicio Processo Busca Simples           
+*****************************************
+Tempo Inicial : 13:6:39 
+Total de Musicas 242 : 
+Total de ResultSet 22 : 
+POL0009AgCriostAnSiol;129
+POL000079thsFarewellToGibralter;102
+POL0016AnChilfhionnMarch;87
+POL0011Alborada;81
+POL0003AFavouriteDuetByMrHolmes;80
+POL0008AfterTheBattleOfAughrim;80
+POL0012AlfredPaHultets;76
+POL0001ABirthday;75
+POL0021AnIrishLullaby;75
+POL0002ADramAtTheWake;71
+POL0005ANorthCountryMaid;71
+POL0006AStonesThrow;70
+POL0020AnGrianan;66
+POL0017AnCnocBui;63
+POL0019AnFeochan;61
+POL0014AllAroundAuntRubysGarden;60
+POL0010AileenBonners;58
+POL0013AlienDream;53
+POL0018AnDro;51
+POL0007Adam;42
+POL0015AnAlarch;28
+POL0004AGreatBigSeaHoveInLongBeach;19
+Tempo Final : 13:6:39 
+*****************************************
+*Fim Processo Busca Simples              
+*****************************************
+Musica de Busca: POL0009AgCriostAnSiol
+Experimento: MUSSIX
+Utiliza Atitude: Nao
+*****************************************
+*Inicio Processo Busca Simples           
+*****************************************
+Tempo Inicial : 13:6:50 
+Total de Musicas 242 : 
+Total de ResultSet 22 : 
+POL0009AgCriostAnSiol;129
+POL0003AFavouriteDuetByMrHolmes;97
+POL0006AStonesThrow;81
+POL0008AfterTheBattleOfAughrim;79
+POL0016AnChilfhionnMarch;75
+POL0005ANorthCountryMaid;74
+POL0011Alborada;70
+POL0021AnIrishLullaby;65
+POL0001ABirthday;54
+POL0012AlfredPaHultets;44
+POL0002ADramAtTheWake;42
+POL0020AnGrianan;41
+POL0007Adam;39
+POL0013AlienDream;39
+POL0018AnDro;24
+POL0014AllAroundAuntRubysGarden;23
+POL0015AnAlarch;21
+POL0017AnCnocBui;20
+POL000079thsFarewellToGibralter;15
+POL0010AileenBonners;9
+POL0004AGreatBigSeaHoveInLongBeach;6
+POL0019AnFeochan;5
+Tempo Final : 13:6:51 
+*****************************************
+*Fim Processo Busca Simples              
+*****************************************
+Musica de Busca: POL0009AgCriostAnSiol
+Experimento: MUSSIX
+Utiliza Atitude: Sim
+*****************************************
+*Inicio Processo Busca Simples           
+*****************************************
+Tempo Inicial : 13:6:54 
+Total de Musicas 242 : 
+Total de ResultSet 14 : 
+POL0009AgCriostAnSiol;129
+POL0003AFavouriteDuetByMrHolmes;97
+POL0006AStonesThrow;81
+POL0008AfterTheBattleOfAughrim;79
+POL0016AnChilfhionnMarch;75
+POL0005ANorthCountryMaid;74
+POL0011Alborada;70
+POL0021AnIrishLullaby;65
+POL0001ABirthday;54
+POL0012AlfredPaHultets;44
+POL0020AnGrianan;41
+POL0017AnCnocBui;20
+POL000079thsFarewellToGibralter;15
+POL0019AnFeochan;5
+Tempo Final : 13:6:54 
+*****************************************
+*Fim Processo Busca Simples              
+*****************************************

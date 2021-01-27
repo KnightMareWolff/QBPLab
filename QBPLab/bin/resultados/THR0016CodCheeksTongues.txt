@@ -1,0 +1,147 @@
+*****************************************
+*Inicio Processo Busca Simples           
+*****************************************
+Tempo Inicial : 12:57:2 
+Musica de Busca: THR0016CodCheeksTongues
+Experimento: SW
+Utiliza Atitude: Nao
+Total de Musicas 242 : 
+Total de ResultSet 47 : 
+THR0016CodCheeksTongues;243
+HOR0000ASaluteToAngusChisholm;156
+JIG000010thBatCrossingRhine;153
+MAZ0020CoburgThe;152
+MAZ0008BarnacleThe;148
+STR0014AnnieLaurie;138
+BAR0003AMarchForGivingThanks;137
+STR0017AtholBrose;137
+SLI0011BangUp;136
+BAR0016BagpipeMarch;134
+MAZ0006AssInTheGraveyardThe;132
+POL000079thsFarewellToGibralter;131
+HOR0017AnDroicheadBheag;128
+BAR0020BalmoralHighlandersThe;127
+HOR0001AbbeyTavernThe;125
+HOR0016AnComhraDonn;125
+HOR0018AnGasurMor;125
+SJI0019BaltighoranThe;125
+HOR0014AmericanPolkaThe;123
+SJI0005APaddybird;123
+REE0020ASconeForBreakfast;120
+THR0019DicksMaggot;119
+REE0002ABonnyLassToMerryMe;118
+REE0010AGhostOfHisFormerSelf;114
+BAR0013AroundTheFairyFort;113
+SJI0012AngusJohnMacNeilOfBarra;113
+STR0003ATripToMabouRidge;113
+MAZ0011BigManThe;110
+MAZ0005AnTulach;110
+JIG0001186TwoStep;110
+BAR0021BarleyAndChicory;110
+JIG000493NotOut;108
+REE0003ABretonInParis;107
+HOR0009Alexanders;107
+MAZ00002DOrNot2D;106
+SJI0003ACountryWedding;106
+MAZ0004AmberThe;104
+JIG0008ABottleOfVodkaFortyEmbassyRedAnd50CashbackPlease;104
+HOR0011AlstonFlowerShow;104
+THR0001AllTheNightILayWithJockey;103
+SLI0002AnSioda;102
+REE0021AShepherdsDream;101
+SLI0010BallintoreThe;101
+BAR0018BallroomFavouriteThe;100
+JIG0016AJigForBernie;100
+REE0009AFishOutOfWater;100
+SLI0000AJigForJack;100
+Tempo Final : 12:57:3 
+*****************************************
+*Fim Processo Busca Simples              
+*****************************************
+*****************************************
+*Inicio Processo Busca Simples           
+*****************************************
+Musica de Busca: THR0016CodCheeksTongues
+Tempo Inicial : 12:57:7 
+Experimento: MUSSUM
+Utiliza Atitude: Nao
+Total de Musicas 242 : 
+Total de ResultSet 22 : 
+THR0016CodCheeksTongues;243
+THR0000AbdelazerRondeauThe;165
+THR0001AllTheNightILayWithJockey;160
+THR0002AltrinchamRound;147
+THR0019DicksMaggot;130
+THR0013CaveOfManyColoursThe;115
+THR0007BluebellThe;109
+THR0003AnDrochaidChliteach;105
+THR0005BarnsleyAbacus;105
+THR0004BarhamDown;98
+THR0015ClarksHornpipe;97
+THR0009BonneyMillerThe;93
+THR0018DessousLesLauriersBlancs;84
+THR0021DownfallOfTheGin;84
+THR0012BrokenleggedChickenThe;83
+THR0014CheshireRound;76
+THR0006BerwickBilly;67
+THR0010BoulesEtGuirlandes;65
+THR0017DanceTiThyDaddy;63
+THR0020DogLeapStairs;59
+THR0008BobbinJohn;56
+THR0011Breton;46
+Tempo Final : 12:57:8 
+*****************************************
+*Fim Processo Busca Simples              
+*****************************************
+*****************************************
+*Inicio Processo Busca Simples           
+*****************************************
+Musica de Busca: THR0016CodCheeksTongues
+Experimento: MUSSIX
+Utiliza Atitude: Nao
+Tempo Inicial : 12:57:10 
+Total de Musicas 242 : 
+Total de ResultSet 22 : 
+THR0016CodCheeksTongues;243
+THR0007BluebellThe;118
+THR0013CaveOfManyColoursThe;114
+THR0015ClarksHornpipe;100
+THR0004BarhamDown;98
+THR0018DessousLesLauriersBlancs;81
+THR0012BrokenleggedChickenThe;80
+THR0000AbdelazerRondeauThe;74
+THR0010BoulesEtGuirlandes;68
+THR0006BerwickBilly;63
+THR0017DanceTiThyDaddy;59
+THR0014CheshireRound;50
+THR0011Breton;49
+THR0009BonneyMillerThe;45
+THR0019DicksMaggot;45
+THR0005BarnsleyAbacus;44
+THR0001AllTheNightILayWithJockey;40
+THR0020DogLeapStairs;36
+THR0008BobbinJohn;27
+THR0003AnDrochaidChliteach;23
+THR0021DownfallOfTheGin;17
+THR0002AltrinchamRound;14
+Tempo Final : 12:57:11 
+*****************************************
+*Fim Processo Busca Simples              
+*****************************************
+*****************************************
+*Inicio Processo Busca Simples           
+*****************************************
+Tempo Inicial : 12:57:14 
+Musica de Busca: THR0016CodCheeksTongues
+Experimento: MUSSIX
+Utiliza Atitude: Sim
+Total de Musicas 242 : 
+Total de ResultSet 4 : 
+THR0016CodCheeksTongues;243
+THR0000AbdelazerRondeauThe;74
+THR0001AllTheNightILayWithJockey;40
+THR0002AltrinchamRound;14
+Tempo Final : 12:57:14 
+*****************************************
+*Fim Processo Busca Simples              
+*****************************************

@@ -1,0 +1,18 @@
+# Add any directories, files, or patterns you don't want to be tracked by version control
+Build
+Binaries
+Content/StarterContent/
+DerivedDataCache
+Intermediate
+Saved
+x64
+debug
+release
+.vs
+*.VC.db
+*.opensdf
+*.opendb
+*.sdf
+*.suo
+*.xcodeproj
+*.xcworkspace

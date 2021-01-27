@@ -1,0 +1,24 @@
+﻿local engine = QBPSearchEngine:new();
+
+engine:SetPrecisionBalance(90);
+engine:Search('Análise de Tempo','Random 0',QBP_LIST_RANDSET,QBP_ALG_SW,false);
+engine:Search('Análise de Tempo','Random 0',QBP_LIST_RANDSET,QBP_ALG_MUSSUM,false);
+engine:Search('Análise de Tempo','Random 0',QBP_LIST_RANDSET,QBP_ALG_MUSSIX,false);
+engine:Search('Análise de Tempo','Random 0',QBP_LIST_RANDSET,QBP_ALG_MUSSAT,true);
+
+engine:Search('Análise de Tempo','Random 100',QBP_LIST_RANDSET,QBP_ALG_SW,false);
+engine:Search('Análise de Tempo','Random 100',QBP_LIST_RANDSET,QBP_ALG_MUSSUM,false);
+engine:Search('Análise de Tempo','Random 100',QBP_LIST_RANDSET,QBP_ALG_MUSSIX,false);
+engine:Search('Análise de Tempo','Random 100',QBP_LIST_RANDSET,QBP_ALG_MUSSAT,true);
+
+engine:Search('Análise de Tempo','Random 300',QBP_LIST_RANDSET,QBP_ALG_SW,false);
+engine:Search('Análise de Tempo','Random 300',QBP_LIST_RANDSET,QBP_ALG_MUSSUM,false);
+engine:Search('Análise de Tempo','Random 300',QBP_LIST_RANDSET,QBP_ALG_MUSSIX,false);
+engine:Search('Análise de Tempo','Random 300',QBP_LIST_RANDSET,QBP_ALG_MUSSAT,true);
+
+engine:Search('Análise de Tempo','Random 500',QBP_LIST_RANDSET,QBP_ALG_SW,false);
+engine:Search('Análise de Tempo','Random 500',QBP_LIST_RANDSET,QBP_ALG_MUSSUM,false);
+engine:Search('Análise de Tempo','Random 500',QBP_LIST_RANDSET,QBP_ALG_MUSSIX,false);
+engine:Search('Análise de Tempo','Random 500',QBP_LIST_RANDSET,QBP_ALG_MUSSAT,true);
+
+return 'Finished! \n'

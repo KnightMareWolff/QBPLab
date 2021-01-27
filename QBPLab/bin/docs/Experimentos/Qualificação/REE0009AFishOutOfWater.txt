@@ -1,0 +1,135 @@
+*****************************************
+*Inicio Processo Busca Simples           
+*****************************************
+Tempo Inicial : 12:49:9 
+Musica de Busca: REE0009AFishOutOfWater
+Experimento: SW
+Utiliza Atitude: Nao
+Total de Musicas 242 : 
+Total de ResultSet 29 : 
+REE0009AFishOutOfWater;252
+THR0001AllTheNightILayWithJockey;157
+POL000079thsFarewellToGibralter;152
+BAR000291stAtModderRiverMarchThe;151
+REE0020ASconeForBreakfast;151
+HOR0000ASaluteToAngusChisholm;145
+REE0002ABonnyLassToMerryMe;140
+JIG000368DuPetitSarny;138
+REE0003ABretonInParis;134
+SLI0001AnChearcArFadIsAnAnairthe;131
+BAR0013AroundTheFairyFort;130
+BAR0003AMarchForGivingThanks;129
+SJI0005APaddybird;128
+MAZ0020CoburgThe;127
+REE0011AGlintOfSilver;127
+HOR0019AnPaistinFionn;123
+JIG0016AJigForBernie;123
+STR0014AnnieLaurie;123
+SLI0000AJigForJack;122
+JIG0008ABottleOfVodkaFortyEmbassyRedAnd50CashbackPlease;120
+MAZ0008BarnacleThe;114
+MAZ0014Bridgets;109
+STR0020BamsDogsEnglish;108
+SLI0012BarrackHill;105
+SLI0011BangUp;104
+REE0010AGhostOfHisFormerSelf;103
+WAL0004ADayAndAnAge;101
+BAR0020BalmoralHighlandersThe;100
+THR0016CodCheeksTongues;100
+Tempo Final : 12:49:10 
+*****************************************
+*Fim Processo Busca Simples              
+*****************************************
+*****************************************
+*Inicio Processo Busca Simples           
+*****************************************
+Tempo Inicial : 12:49:14 
+Musica de Busca: REE0009AFishOutOfWater
+Experimento: MUSSUM
+Utiliza Atitude: Nao
+Total de Musicas 242 : 
+Total de ResultSet 22 : 
+REE0009AFishOutOfWater;252
+REE0003ABretonInParis;176
+REE0021AShepherdsDream;173
+REE0002ABonnyLassToMerryMe;169
+REE0010AGhostOfHisFormerSelf;155
+REE0011AGlintOfSilver;148
+REE0020ASconeForBreakfast;141
+REE0017APort;137
+REE0016AParcelOfLand;132
+REE0018APunchInTheDark;125
+REE0015ANiceTripToSkelligs;120
+REE0007ADeanadhIm;119
+REE0008AFairWind;116
+REE00011stAugust;112
+REE0005ACork;112
+REE0019AReelInTheStyleOfRedican;105
+REE0000SIomaidhRudAChunnaMi;97
+REE0004AChurNanGobharAsAChreig;93
+REE0012AKerry;92
+REE0006ACupOfTea;87
+REE0014AMoonlightRamble;72
+REE0013ALaxityOfMorals;63
+Tempo Final : 12:49:15 
+*****************************************
+*Fim Processo Busca Simples              
+*****************************************
+*****************************************
+*Inicio Processo Busca Simples           
+*****************************************
+Tempo Inicial : 12:49:18 
+Musica de Busca: REE0009AFishOutOfWater
+Experimento: MUSSIX
+Utiliza Atitude: Nao
+Total de Musicas 242 : 
+Total de ResultSet 22 : 
+REE0009AFishOutOfWater;252
+REE0020ASconeForBreakfast;171
+REE0003ABretonInParis;165
+REE0010AGhostOfHisFormerSelf;144
+REE0002ABonnyLassToMerryMe;142
+REE0021AShepherdsDream;135
+REE0018APunchInTheDark;106
+REE0000SIomaidhRudAChunnaMi;105
+REE0016AParcelOfLand;103
+REE0005ACork;93
+REE0004AChurNanGobharAsAChreig;91
+REE0011AGlintOfSilver;89
+REE00011stAugust;87
+REE0012AKerry;79
+REE0008AFairWind;72
+REE0006ACupOfTea;62
+REE0007ADeanadhIm;51
+REE0013ALaxityOfMorals;37
+REE0017APort;27
+REE0014AMoonlightRamble;15
+REE0015ANiceTripToSkelligs;7
+REE0019AReelInTheStyleOfRedican;5
+Tempo Final : 12:49:19 
+*****************************************
+*Fim Processo Busca Simples              
+*****************************************
+*****************************************
+*Inicio Processo Busca Simples           
+*****************************************
+Tempo Inicial : 12:49:23 
+Musica de Busca: REE0009AFishOutOfWater
+Experimento: MUSSIX
+Utiliza Atitude: Sim
+Total de Musicas 242 : 
+Total de ResultSet 9 : 
+REE0009AFishOutOfWater;252
+REE0020ASconeForBreakfast;171
+REE0003ABretonInParis;165
+REE0002ABonnyLassToMerryMe;142
+REE0021AShepherdsDream;135
+REE0016AParcelOfLand;103
+REE0017APort;27
+REE0015ANiceTripToSkelligs;7
+REE0019AReelInTheStyleOfRedican;5
+Tempo Final : 12:49:24 
+*****************************************
+*Fim Processo Busca Simples              
+*****************************************
+

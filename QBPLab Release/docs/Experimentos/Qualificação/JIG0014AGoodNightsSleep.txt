@@ -1,0 +1,119 @@
+*****************************************
+*Inicio Processo Busca Simples           
+*****************************************
+Tempo Inicial : 12:50:53 
+Musica de Busca: JIG0014AGoodNightsSleep
+Experimento: SW
+Utiliza Atitude: Nao
+Total de Musicas 242 : 
+Total de ResultSet 8 : 
+JIG0014AGoodNightsSleep;192
+REE0003ABretonInParis;117
+REE0010AGhostOfHisFormerSelf;111
+SLI0002AnSioda;111
+POL000079thsFarewellToGibralter;108
+BAR0011Anstys;107
+REE0002ABonnyLassToMerryMe;106
+BAR000291stAtModderRiverMarchThe;102
+Tempo Final : 12:50:54 
+*****************************************
+*Fim Processo Busca Simples              
+*****************************************
+*****************************************
+*Inicio Processo Busca Simples           
+*****************************************
+Tempo Inicial : 12:50:57 
+Musica de Busca: JIG0014AGoodNightsSleep
+Experimento: MUSSUM
+Utiliza Atitude: Nao
+Total de Musicas 242 : 
+Total de ResultSet 22 : 
+JIG0014AGoodNightsSleep;192
+JIG0021AMemoryOfFriendsPast;131
+JIG0001186TwoStep;124
+JIG000230YearThe;114
+JIG000368DuPetitSarny;103
+JIG000010thBatCrossingRhine;99
+JIG0007ABlurOfHeather;99
+JIG0016AJigForBernie;99
+JIG0018AJigForJay;99
+JIG0006ABarrelOfKnives;98
+JIG0015AHighlandQuickstep;98
+JIG0010ACuriousDenisMurphy;97
+JIG0019AJigForSarah;94
+JIG000493NotOut;92
+JIG0008ABottleOfVodkaFortyEmbassyRedAnd50CashbackPlease;92
+JIG00059thOfJulyThe;87
+JIG0017AJigForChristmas;82
+JIG0020ALovelyMorning;78
+JIG0009AChristmas;77
+JIG0013AFishermansSongForAttractingSeals;76
+JIG0012ADuckWalksIntoAPharmacy;73
+JIG0011ADayInSligo;48
+Tempo Final : 12:50:57 
+*****************************************
+*Fim Processo Busca Simples              
+*****************************************
+*****************************************
+*Inicio Processo Busca Simples           
+*****************************************
+Musica de Busca: JIG0014AGoodNightsSleep
+Tempo Inicial : 12:51:0 
+Experimento: MUSSIX
+Utiliza Atitude: Nao
+Total de Musicas 242 : 
+Total de ResultSet 22 : 
+JIG0014AGoodNightsSleep;192
+JIG0018AJigForJay;122
+JIG0007ABlurOfHeather;115
+JIG0016AJigForBernie;113
+JIG000368DuPetitSarny;86
+JIG0009AChristmas;73
+JIG000230YearThe;70
+JIG0006ABarrelOfKnives;67
+JIG0021AMemoryOfFriendsPast;63
+JIG0020ALovelyMorning;62
+JIG0015AHighlandQuickstep;57
+JIG0017AJigForChristmas;56
+JIG0010ACuriousDenisMurphy;55
+JIG000493NotOut;46
+JIG0001186TwoStep;45
+JIG0008ABottleOfVodkaFortyEmbassyRedAnd50CashbackPlease;25
+JIG000010thBatCrossingRhine;24
+JIG0011ADayInSligo;19
+JIG0012ADuckWalksIntoAPharmacy;14
+JIG0013AFishermansSongForAttractingSeals;13
+JIG0019AJigForSarah;13
+JIG00059thOfJulyThe;4
+Tempo Final : 12:51:1 
+*****************************************
+*Fim Processo Busca Simples              
+*****************************************
+*****************************************
+*Inicio Processo Busca Simples           
+*****************************************
+Tempo Inicial : 12:51:5 
+Musica de Busca: JIG0014AGoodNightsSleep
+Experimento: MUSSIX
+Utiliza Atitude: Sim
+Total de Musicas 242 : 
+Total de ResultSet 13 : 
+JIG0014AGoodNightsSleep;192
+JIG0007ABlurOfHeather;115
+JIG000368DuPetitSarny;86
+JIG000230YearThe;70
+JIG0006ABarrelOfKnives;67
+JIG0021AMemoryOfFriendsPast;63
+JIG0020ALovelyMorning;62
+JIG0015AHighlandQuickstep;57
+JIG0001186TwoStep;45
+JIG0008ABottleOfVodkaFortyEmbassyRedAnd50CashbackPlease;25
+JIG000010thBatCrossingRhine;24
+JIG0012ADuckWalksIntoAPharmacy;14
+JIG0019AJigForSarah;13
+Tempo Final : 12:51:5 
+*****************************************
+*Fim Processo Busca Simples              
+*****************************************
+
+

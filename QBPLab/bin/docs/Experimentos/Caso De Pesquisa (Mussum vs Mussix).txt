@@ -1,0 +1,118 @@
+*****************************************
+*Inicio Processo Busca Simples           
+*****************************************
+Musica de Busca: BAR0007AnDroMarcDAilleurs
+Experimento: MUSSUM
+Utiliza Atitude: Nao
+Tempo Inicial : 15:34:32 
+Total de Musicas 242 : 
+Total de ResultSet 22 : 
+BAR0007AnDroMarcDAilleurs;158
+BAR0010AnnikasButterfly;107
+BAR0017BakersDozen;104
+BAR0019BallydesmondMarchThe;101
+BAR0006AnDroDElven;97
+BAR0021BarleyAndChicory;94
+BAR0011Anstys;93
+BAR0016BagpipeMarch;92
+BAR000072ndsFarewellToAberdeen;88
+BAR0003AMarchForGivingThanks;87
+BAR0020BalmoralHighlandersThe;82
+BAR000174thHighlandersQuickstep;77
+BAR0009AnOrkney;77
+BAR0012AntigonishPolkaThe;77
+BAR000291stAtModderRiverMarchThe;75
+BAR0013AroundTheFairyFort;72
+BAR0008AnDro;66
+BAR0018BallroomFavouriteThe;64
+BAR0004ANationOnceAgain;60
+BAR0005AlbertFarmersBonfire;48
+BAR0014AtlantaSchottischeThe;44
+BAR0015AuntHessiesWhiteHorse;24
+Tempo Final : 15:34:36 
+*****************************************
+*Fim Processo Busca Simples              
+*****************************************
+
+*****************************************
+*Inicio Processo Busca Simples           
+*****************************************
+Tempo Inicial : 15:35:12 
+Musica de Busca: BAR0007AnDroMarcDAilleurs
+Experimento: MUSSIX
+Utiliza Atitude: Sim
+Total de Musicas 242 : 
+Total de ResultSet 16 : 
+BAR0007AnDroMarcDAilleurs;158
+BAR0006AnDroDElven;116
+BAR000291stAtModderRiverMarchThe;67
+BAR0017BakersDozen;62
+BAR0010AnnikasButterfly;40
+BAR0012AntigonishPolkaThe;34
+BAR000072ndsFarewellToAberdeen;33
+BAR0016BagpipeMarch;21
+BAR0011Anstys;20
+BAR000174thHighlandersQuickstep;14
+BAR0013AroundTheFairyFort;12
+BAR0018BallroomFavouriteThe;12
+BAR0009AnOrkney;10
+BAR0021BarleyAndChicory;6
+BAR0003AMarchForGivingThanks;5
+BAR0005AlbertFarmersBonfire;3
+Tempo Final : 15:35:14 
+*****************************************
+*Fim Processo Busca Simples              
+*****************************************
+Tocando a Musica: BAR0007AnDroMarcDAilleurs
+Tocando a Musica: BAR0010AnnikasButterfly
+Tocando a Musica: BAR0006AnDroDElven
+Tocando a Musica: BAR0007AnDroMarcDAilleurs
+Tocando a Musica: BAR0006AnDroDElven
+Tocando a Musica: BAR0006AnDroDElven
+Tocando a Musica: BAR0007AnDroMarcDAilleurs
+Tocando a Musica: BAR0010AnnikasButterfly
+Tocando a Musica: BAR0010AnnikasButterfly
+Tocando a Musica: BAR0007AnDroMarcDAilleurs
+
+*****************************************
+*Inicio Processo Busca Simples           
+*****************************************
+Musica de Busca: BAR0007AnDroMarcDAilleurs
+Experimento: MUSSIX
+Utiliza Atitude: Nao
+Tempo Inicial : 15:47:45 
+Total de Musicas 242 : 
+Total de ResultSet 22 : 
+BAR0007AnDroMarcDAilleurs;158
+BAR0006AnDroDElven;116
+BAR000291stAtModderRiverMarchThe;67
+BAR0008AnDro;62
+BAR0017BakersDozen;62
+BAR0010AnnikasButterfly;40
+BAR0012AntigonishPolkaThe;34
+BAR000072ndsFarewellToAberdeen;33
+BAR0019BallydesmondMarchThe;26
+BAR0016BagpipeMarch;21
+BAR0011Anstys;20
+BAR000174thHighlandersQuickstep;14
+BAR0004ANationOnceAgain;12
+BAR0013AroundTheFairyFort;12
+BAR0018BallroomFavouriteThe;12
+BAR0020BalmoralHighlandersThe;11
+BAR0009AnOrkney;10
+BAR0014AtlantaSchottischeThe;7
+BAR0021BarleyAndChicory;6
+BAR0003AMarchForGivingThanks;5
+BAR0015AuntHessiesWhiteHorse;4
+BAR0005AlbertFarmersBonfire;3
+Tempo Final : 15:47:48 
+*****************************************
+*Fim Processo Busca Simples              
+*****************************************
+
+Tocando a Musica: BAR0007AnDroMarcDAilleurs
+Tocando a Musica: BAR0007AnDroMarcDAilleurs
+Tocando a Musica: BAR0010AnnikasButterfly
+
+
+

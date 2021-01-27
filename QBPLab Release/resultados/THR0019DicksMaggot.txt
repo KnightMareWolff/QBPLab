@@ -1,0 +1,128 @@
+*****************************************
+*Inicio Processo Busca Simples           
+*****************************************
+Tempo Inicial : 12:58:14 
+Musica de Busca: THR0019DicksMaggot
+Experimento: SW
+Utiliza Atitude: Nao
+Total de Musicas 242 : 
+Total de ResultSet 28 : 
+THR0019DicksMaggot;230
+SLI0010BallintoreThe;138
+REE0010AGhostOfHisFormerSelf;134
+REE0002ABonnyLassToMerryMe;130
+WAL0014AcrossTheDivide;129
+JIG0021AMemoryOfFriendsPast;128
+HOR0003AcrossTheFence;126
+JIG000368DuPetitSarny;124
+HOR0005AggieWhites;122
+THR0016CodCheeksTongues;119
+HOR0015AnBuachaillDreoite;115
+HOR0011AlstonFlowerShow;113
+POL0001ABirthday;111
+WAL0012AWhistleOnTheWind;111
+THR0005BarnsleyAbacus;110
+SJI0018BachsFrolics;108
+JIG0019AJigForSarah;107
+BAR0018BallroomFavouriteThe;106
+JIG000010thBatCrossingRhine;105
+JIG000230YearThe;105
+HOR0020AnPointe;104
+JIG0008ABottleOfVodkaFortyEmbassyRedAnd50CashbackPlease;104
+MAZ0014Bridgets;103
+HOR0009Alexanders;100
+POL0016AnChilfhionnMarch;100
+REE0005ACork;100
+SJI0003ACountryWedding;100
+SJI0009AlleryBurn;100
+Tempo Final : 12:58:15 
+*****************************************
+*Fim Processo Busca Simples              
+*****************************************
+*****************************************
+*Inicio Processo Busca Simples           
+*****************************************
+Experimento: MUSSUM
+Utiliza Atitude: Nao
+Tempo Inicial : 12:58:19 
+Total de Musicas 242 : 
+Total de ResultSet 22 : 
+THR0019DicksMaggot;230
+THR0002AltrinchamRound;159
+THR0001AllTheNightILayWithJockey;153
+THR0016CodCheeksTongues;130
+THR0000AbdelazerRondeauThe;125
+THR0005BarnsleyAbacus;112
+THR0013CaveOfManyColoursThe;104
+THR0009BonneyMillerThe;96
+THR0015ClarksHornpipe;92
+THR0007BluebellThe;89
+THR0003AnDrochaidChliteach;85
+THR0014CheshireRound;83
+THR0021DownfallOfTheGin;83
+THR0004BarhamDown;81
+THR0006BerwickBilly;80
+THR0012BrokenleggedChickenThe;79
+THR0020DogLeapStairs;77
+THR0008BobbinJohn;74
+THR0018DessousLesLauriersBlancs;70
+THR0010BoulesEtGuirlandes;65
+THR0017DanceTiThyDaddy;61
+THR0011Breton;54
+Tempo Final : 12:58:20 
+*****************************************
+*Fim Processo Busca Simples              
+*****************************************
+Musica de Busca: THR0019DicksMaggot
+Experimento: MUSSIX
+Utiliza Atitude: Nao
+*****************************************
+*Inicio Processo Busca Simples           
+*****************************************
+Tempo Inicial : 12:58:24 
+Total de Musicas 242 : 
+Total de ResultSet 22 : 
+THR0019DicksMaggot;230
+THR0013CaveOfManyColoursThe;111
+THR0005BarnsleyAbacus;83
+THR0006BerwickBilly;80
+THR0012BrokenleggedChickenThe;75
+THR0007BluebellThe;71
+THR0020DogLeapStairs;71
+THR0009BonneyMillerThe;68
+THR0004BarhamDown;59
+THR0014CheshireRound;59
+THR0001AllTheNightILayWithJockey;56
+THR0002AltrinchamRound;53
+THR0015ClarksHornpipe;45
+THR0016CodCheeksTongues;45
+THR0018DessousLesLauriersBlancs;41
+THR0008BobbinJohn;38
+THR0011Breton;34
+THR0021DownfallOfTheGin;31
+THR0010BoulesEtGuirlandes;28
+THR0000AbdelazerRondeauThe;24
+THR0003AnDrochaidChliteach;15
+THR0017DanceTiThyDaddy;12
+Tempo Final : 12:58:24 
+*****************************************
+*Fim Processo Busca Simples              
+*****************************************
+Musica de Busca: THR0019DicksMaggot
+*****************************************
+*Inicio Processo Busca Simples           
+*****************************************
+Experimento: MUSSIX
+Utiliza Atitude: Sim
+Tempo Inicial : 12:58:29 
+Total de Musicas 242 : 
+Total de ResultSet 5 : 
+THR0019DicksMaggot;230
+THR0001AllTheNightILayWithJockey;56
+THR0002AltrinchamRound;53
+THR0016CodCheeksTongues;45
+THR0000AbdelazerRondeauThe;24
+Tempo Final : 12:58:30 
+*****************************************
+*Fim Processo Busca Simples              
+*****************************************

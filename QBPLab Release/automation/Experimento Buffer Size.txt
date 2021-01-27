@@ -1,0 +1,53 @@
+﻿--engine:SetPrecisionBalance(50);
+--engine:SetBufferSize(10);
+--engine:CreateList(QBP_LIST_TESTSET,QBP_FORM_LESS_1015F);
+
+--engine:Search('Precision Experiment','BAR000072ndsFarewellToAberdeen',QBP_LIST_TESTSET,QBP_ALG_SW,false);
+--engine:Search('Precision Experiment','BAR000072ndsFarewellToAberdeen',QBP_LIST_TESTSET,QBP_ALG_MUSSUM,false);
+--engine:Search('Precision Experiment','BAR000072ndsFarewellToAberdeen',QBP_LIST_TESTSET,QBP_ALG_MUSSIX,false);
+--engine:Search('Precision Experiment','BAR000072ndsFarewellToAberdeen',QBP_LIST_TESTSET,QBP_ALG_MUSSAT,true);
+
+
+local engine = QBPSearchEngine:new();
+
+engine:SetPrecisionBalance(90);
+engine:SetBufferSize(5);
+engine:CreateList(QBP_LIST_TESTSET,QBP_FORM_LESS_1015F);
+engine:Search('Precision Experiment','BAR000072ndsFarewellToAberdeen',QBP_LIST_TESTSET,QBP_ALG_SW,false);
+engine:Search('Precision Experiment','BAR000072ndsFarewellToAberdeen',QBP_LIST_TESTSET,QBP_ALG_MUSSUM,false);
+engine:Search('Precision Experiment','BAR000072ndsFarewellToAberdeen',QBP_LIST_TESTSET,QBP_ALG_MUSSIX,false);
+engine:Search('Precision Experiment','BAR000072ndsFarewellToAberdeen',QBP_LIST_TESTSET,QBP_ALG_MUSSAT,true);
+
+engine:SetPrecisionBalance(90);
+engine:SetBufferSize(10);
+engine:CreateList(QBP_LIST_TESTSET,QBP_FORM_LESS_1015F);
+engine:Search('Precision Experiment','BAR000072ndsFarewellToAberdeen',QBP_LIST_TESTSET,QBP_ALG_SW,false);
+engine:Search('Precision Experiment','BAR000072ndsFarewellToAberdeen',QBP_LIST_TESTSET,QBP_ALG_MUSSUM,false);
+engine:Search('Precision Experiment','BAR000072ndsFarewellToAberdeen',QBP_LIST_TESTSET,QBP_ALG_MUSSIX,false);
+engine:Search('Precision Experiment','BAR000072ndsFarewellToAberdeen',QBP_LIST_TESTSET,QBP_ALG_MUSSAT,true);
+
+engine:SetPrecisionBalance(90);
+engine:SetBufferSize(15);
+engine:CreateList(QBP_LIST_TESTSET,QBP_FORM_LESS_1015F);
+engine:Search('Precision Experiment','BAR000072ndsFarewellToAberdeen',QBP_LIST_TESTSET,QBP_ALG_SW,false);
+engine:Search('Precision Experiment','BAR000072ndsFarewellToAberdeen',QBP_LIST_TESTSET,QBP_ALG_MUSSUM,false);
+engine:Search('Precision Experiment','BAR000072ndsFarewellToAberdeen',QBP_LIST_TESTSET,QBP_ALG_MUSSIX,false);
+engine:Search('Precision Experiment','BAR000072ndsFarewellToAberdeen',QBP_LIST_TESTSET,QBP_ALG_MUSSAT,true);
+
+engine:SetPrecisionBalance(90);
+engine:SetBufferSize(20);
+engine:CreateList(QBP_LIST_TESTSET,QBP_FORM_LESS_1015F);
+engine:Search('Precision Experiment','BAR000072ndsFarewellToAberdeen',QBP_LIST_TESTSET,QBP_ALG_SW,false);
+engine:Search('Precision Experiment','BAR000072ndsFarewellToAberdeen',QBP_LIST_TESTSET,QBP_ALG_MUSSUM,false);
+engine:Search('Precision Experiment','BAR000072ndsFarewellToAberdeen',QBP_LIST_TESTSET,QBP_ALG_MUSSIX,false);
+engine:Search('Precision Experiment','BAR000072ndsFarewellToAberdeen',QBP_LIST_TESTSET,QBP_ALG_MUSSAT,true);
+
+engine:SetPrecisionBalance(90);
+engine:SetBufferSize(25);
+engine:CreateList(QBP_LIST_TESTSET,QBP_FORM_LESS_1015F);
+engine:Search('Precision Experiment','BAR000072ndsFarewellToAberdeen',QBP_LIST_TESTSET,QBP_ALG_SW,false);
+engine:Search('Precision Experiment','BAR000072ndsFarewellToAberdeen',QBP_LIST_TESTSET,QBP_ALG_MUSSUM,false);
+engine:Search('Precision Experiment','BAR000072ndsFarewellToAberdeen',QBP_LIST_TESTSET,QBP_ALG_MUSSIX,false);
+engine:Search('Precision Experiment','BAR000072ndsFarewellToAberdeen',QBP_LIST_TESTSET,QBP_ALG_MUSSAT,true);
+
+return 'Passou\n'

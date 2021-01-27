@@ -1,0 +1,110 @@
+*****************************************
+*Inicio Processo Busca Simples           
+*****************************************
+Tempo Inicial : 12:49:55 
+Musica de Busca: POL0011Alborada
+Experimento: SW
+Utiliza Atitude: Nao
+Total de Musicas 242 : 
+Total de ResultSet 11 : 
+POL0011Alborada;174
+HOR0000ASaluteToAngusChisholm;107
+JIG000010thBatCrossingRhine;106
+SLI0001AnChearcArFadIsAnAnairthe;105
+STR0017AtholBrose;105
+BAR0016BagpipeMarch;104
+REE0002ABonnyLassToMerryMe;104
+REE0020ASconeForBreakfast;104
+HOR0016AnComhraDonn;103
+REE0003ABretonInParis;103
+SLI0011BangUp;102
+Tempo Final : 12:49:56 
+*****************************************
+*Fim Processo Busca Simples              
+*****************************************
+*****************************************
+*Inicio Processo Busca Simples           
+*****************************************
+Tempo Inicial : 12:49:59 
+Musica de Busca: POL0011Alborada
+Experimento: MUSSUM
+Utiliza Atitude: Nao
+Total de Musicas 242 : 
+Total de ResultSet 22 : 
+POL0011Alborada;174
+POL000079thsFarewellToGibralter;123
+POL0016AnChilfhionnMarch;108
+POL0012AlfredPaHultets;97
+POL0001ABirthday;95
+POL0002ADramAtTheWake;83
+POL0008AfterTheBattleOfAughrim;82
+POL0006AStonesThrow;81
+POL0009AgCriostAnSiol;81
+POL0014AllAroundAuntRubysGarden;81
+POL0010AileenBonners;79
+POL0017AnCnocBui;77
+POL0020AnGrianan;75
+POL0021AnIrishLullaby;73
+POL0003AFavouriteDuetByMrHolmes;70
+POL0013AlienDream;69
+POL0019AnFeochan;66
+POL0005ANorthCountryMaid;65
+POL0018AnDro;40
+POL0007Adam;39
+POL0015AnAlarch;28
+POL0004AGreatBigSeaHoveInLongBeach;15
+Tempo Final : 12:50:0 
+*****************************************
+*Fim Processo Busca Simples              
+*****************************************
+*****************************************
+*Inicio Processo Busca Simples           
+*****************************************
+Tempo Inicial : 12:50:4 
+Musica de Busca: POL0011Alborada
+Experimento: MUSSIX
+Utiliza Atitude: Nao
+Total de Musicas 242 : 
+Total de ResultSet 22 : 
+POL0011Alborada;174
+POL0001ABirthday;97
+POL0016AnChilfhionnMarch;95
+POL0006AStonesThrow;80
+POL0002ADramAtTheWake;76
+POL0009AgCriostAnSiol;65
+POL0012AlfredPaHultets;64
+POL000079thsFarewellToGibralter;62
+POL0008AfterTheBattleOfAughrim;59
+POL0013AlienDream;56
+POL0020AnGrianan;55
+POL0017AnCnocBui;53
+POL0014AllAroundAuntRubysGarden;50
+POL0003AFavouriteDuetByMrHolmes;35
+POL0021AnIrishLullaby;34
+POL0010AileenBonners;29
+POL0018AnDro;29
+POL0005ANorthCountryMaid;22
+POL0019AnFeochan;19
+POL0015AnAlarch;17
+POL0004AGreatBigSeaHoveInLongBeach;9
+POL0007Adam;9
+Tempo Final : 12:50:5 
+*****************************************
+*Fim Processo Busca Simples              
+*****************************************
+*****************************************
+*Inicio Processo Busca Simples           
+*****************************************
+Tempo Inicial : 12:50:10 
+Musica de Busca: POL0011Alborada
+Experimento: MUSSIX
+Utiliza Atitude: Sim
+Total de Musicas 242 : 
+Total de ResultSet 2 : 
+POL0011Alborada;174
+POL000079thsFarewellToGibralter;62
+Tempo Final : 12:50:10 
+*****************************************
+*Fim Processo Busca Simples              
+*****************************************
+

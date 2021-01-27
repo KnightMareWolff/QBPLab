@@ -1,0 +1,126 @@
+*****************************************
+*Inicio Processo Busca Simples           
+*****************************************
+Tempo Inicial : 12:38:51 
+Musica de Busca: BAR000072ndsFarewellToAberdeen
+Experimento: SW
+Utiliza Atitude: Nao
+Total de Musicas 242 : 
+Total de ResultSet 22 : 
+BAR000072ndsFarewellToAberdeen;334
+JIG000010thBatCrossingRhine;170
+HOR0011AlstonFlowerShow;157
+JIG000230YearThe;139
+HOR0009Alexanders;137
+HOR0020AnPointe;128
+WAL0012AWhistleOnTheWind;124
+BAR0021BarleyAndChicory;123
+MAZ0011BigManThe;117
+HOR0015AnBuachaillDreoite;116
+MAZ0005AnTulach;111
+BAR0018BallroomFavouriteThe;109
+JIG0006ABarrelOfKnives;106
+MAZ0007BaijiMarchThe;106
+REE0002ABonnyLassToMerryMe;105
+SLI0005AskMyFather;105
+MAZ0020CoburgThe;104
+POL0001ABirthday;103
+POL0016AnChilfhionnMarch;103
+STR0017AtholBrose;103
+MAZ0009BarringControversy;101
+HOR0005AggieWhites;100
+Tempo Final : 12:38:52 
+*****************************************
+*Fim Processo Busca Simples              
+*****************************************
+*****************************************
+*Inicio Processo Busca Simples           
+*****************************************
+Tempo Inicial : 12:38:56 
+Musica de Busca: BAR000072ndsFarewellToAberdeen
+Experimento: MUSSUM
+Utiliza Atitude: Nao
+Total de Musicas 242 : 
+Total de ResultSet 22 : 
+BAR000072ndsFarewellToAberdeen;334
+BAR000291stAtModderRiverMarchThe;194
+BAR0016BagpipeMarch;189
+BAR0013AroundTheFairyFort;168
+BAR0010AnnikasButterfly;167
+BAR0019BallydesmondMarchThe;158
+BAR0021BarleyAndChicory;157
+BAR0003AMarchForGivingThanks;154
+BAR0018BallroomFavouriteThe;142
+BAR0020BalmoralHighlandersThe;130
+BAR0006AnDroDElven;124
+BAR0005AlbertFarmersBonfire;123
+BAR0011Anstys;116
+BAR0012AntigonishPolkaThe;114
+BAR0009AnOrkney;112
+BAR000174thHighlandersQuickstep;110
+BAR0017BakersDozen;99
+BAR0014AtlantaSchottischeThe;95
+BAR0007AnDroMarcDAilleurs;88
+BAR0004ANationOnceAgain;81
+BAR0008AnDro;58
+BAR0015AuntHessiesWhiteHorse;57
+Tempo Final : 12:38:58 
+*****************************************
+*Fim Processo Busca Simples              
+*****************************************
+*****************************************
+*Inicio Processo Busca Simples           
+*****************************************
+Tempo Inicial : 12:39:2 
+Musica de Busca: BAR000072ndsFarewellToAberdeen
+Experimento: MUSSIX
+Utiliza Atitude: Nao
+Total de Musicas 242 : 
+Total de ResultSet 22 : 
+BAR000072ndsFarewellToAberdeen;334
+BAR0013AroundTheFairyFort;180
+BAR0018BallroomFavouriteThe;138
+BAR0005AlbertFarmersBonfire;119
+BAR0016BagpipeMarch;112
+BAR0019BallydesmondMarchThe;110
+BAR0003AMarchForGivingThanks;100
+BAR0006AnDroDElven;96
+BAR0021BarleyAndChicory;93
+BAR000291stAtModderRiverMarchThe;66
+BAR0009AnOrkney;56
+BAR0014AtlantaSchottischeThe;55
+BAR0007AnDroMarcDAilleurs;33
+BAR0010AnnikasButterfly;33
+BAR0012AntigonishPolkaThe;25
+BAR0020BalmoralHighlandersThe;18
+BAR0015AuntHessiesWhiteHorse;15
+BAR0004ANationOnceAgain;14
+BAR000174thHighlandersQuickstep;11
+BAR0017BakersDozen;9
+BAR0008AnDro;7
+BAR0011Anstys;5
+Tempo Final : 12:39:3 
+*****************************************
+*Fim Processo Busca Simples              
+*****************************************
+*****************************************
+*Inicio Processo Busca Simples           
+*****************************************
+Tempo Inicial : 12:39:7 
+Musica de Busca: BAR000072ndsFarewellToAberdeen
+Experimento: MUSSIX
+Utiliza Atitude: Sim
+Total de Musicas 242 : 
+Total de ResultSet 8 : 
+BAR000072ndsFarewellToAberdeen;334
+BAR0013AroundTheFairyFort;180
+BAR0016BagpipeMarch;112
+BAR0003AMarchForGivingThanks;100
+BAR0021BarleyAndChicory;93
+BAR000291stAtModderRiverMarchThe;66
+BAR0010AnnikasButterfly;33
+BAR0017BakersDozen;9
+Tempo Final : 12:39:7 
+*****************************************
+*Fim Processo Busca Simples              
+*****************************************

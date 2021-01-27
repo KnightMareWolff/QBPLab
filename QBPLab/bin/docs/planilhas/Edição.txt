@@ -1,0 +1,186 @@
+
+Single Queue
+
+Musica Consultada : Random 0
+
+BAR000072ndsFarewellToAberdeen      255 TP - True  Positive 
+SJI0194Leppadumdowledum             251 TN - True  Negative 
+JIG000010thBatCrossingRhine         243 TN - True  Negative 
+HOR0189DerryThe                     242 TN - True  Negative 
+REE2564MusicForAFoundHarmonium      236 FP - False Positive 
+HOR0556Murphys                      235 TN - True  Negative 
+JIG2172RossBatteryMarch             225 FP - False Positive 
+JIG0925FriezeBreechesThe            225 FP - False Positive 
+HOR0408JohnJKimmelsFavourite        222 TN - True  Negative 
+REE1436HairOfTheDog                 216 TN - True  Negative 
+HOR0403JoeMcGannsFiddle             215 TN - True  Negative 
+REE3153RubberManThe                 212 FP - False Positive 
+HOR0409JohnKimmelsAccordionFantasy  212 TN - True  Negative 
+REE2362MichaelGallaghersFancy       211 TN - True  Negative 
+JIG1395KilfenoraThe                 209 TN - True  Negative 
+JIG1476LastTrainFromLoughrea        205 FP - False Positive 
+HOR0473LiverpoolThe                 198 FP - False Positive 
+REE2143LordGordons                  195 TN - True  Negative 
+REE0530CastlerockRoad               194 FP - False Positive 
+STR0014AnnieLaurie                  192 FP - False Positive 
+
+
+JIG1702MontgomeriesMaggot                     288 TN - True  Negative 
+REE3444StraitsOfSherkinThe                    284 TN - True  Negative 
+HOR0698SermonThe                              283 TN - True  Negative 
+SJI0194Leppadumdowledum                       282 TN - True  Negative 
+HOR0408JohnJKimmelsFavourite                  280 TN - True  Negative 
+BAR000072ndsFarewellToAberdeen                279 TP - True  Positive 
+HOR0189DerryThe                               275 TN - True  Negative 
+JIG000010thBatCrossingRhine                   273 TN - True  Negative 
+JIG0561CorkHill                               272 FP - False Positive 
+THR0066SpinningJenny                          269 TN - True  Negative 
+THR0030Heartsease                             269 TN - True  Negative 
+HOR0217EchoingStringsComposedByOwenHackettThe 269 TN - True  Negative 
+JIG0267BlackFrogThe                           268 TN - True  Negative 
+HOR0131CaughtInTheNet                         266 TN - True  Negative 
+HOR0556Murphys                                264 FP - False Positive 
+JIG1708MorganRattler                          263 TN - True  Negative 
+HOR0409JohnKimmelsAccordionFantasy            263 TN - True  Negative 
+HOR0403JoeMcGannsFiddle                       262 FP - False Positive 
+HOR0530MillQuayThe                            260 TN - True  Negative 
+REE3212SchoolReels                            259 TN - True  Negative 
+
+
+BAR000072ndsFarewellToAberdeen                323 TP - True  Positive 
+JIG000010thBatCrossingRhine                   171 TN - True  Negative 
+REE0538CatherineMcEvoys                        94 TN - True  Negative 
+SJI0194Leppadumdowledum                        90 TN - True  Negative 
+REE2404MissCathyChilcotts                      88 TN - True  Negative 
+JIG1001GoldRingThe                             85 TN - True  Negative 
+JIG0269BlackLoughThe                           81 TN - True  Negative 
+HOR0603PaddyInThePunjab                        77 TN - True  Negative 
+JIG0279BlackthornStickThe                      76 TN - True  Negative 
+JIG0868FinbarDwyersFavorite                    73 TN - True  Negative 
+SJI0224MominskoHoro                            72 TN - True  Negative 
+REE1443HammyHamiltons                          71 TN - True  Negative 
+REE1163Fitchrona                               69 TN - True  Negative 
+POL0299JennyBells                              69 TN - True  Negative 
+REE2778PaddyOnTheLandfill                      68 TN - True  Negative 
+JIG1295JimmyMcHughs                            67 TN - True  Negative 
+JIG0932FullLengthMetalStrapHandleDiggingSpade  67 FP - False Positive 
+JIG2379SwiftThe                                66 TN - True  Negative 
+REE2510MourneMountainsThe                      64 TN - True  Negative 
+JIG0917FrancAPhoill                            63 TN - True  Negative 
+
+
+
+BAR000072ndsFarewellToAberdeen                323 TP - True  Positive 
+JIG000010thBatCrossingRhine                   171 TN - True  Negative 
+JIG0269BlackLoughThe                           81 TN - True  Negative 
+REE1443HammyHamiltons                          71 TN - True  Negative 
+JIG0917FrancAPhoill                            63 TN - True  Negative 
+WAL0400MenOfTheWestThe                         60 TN - True  Negative 
+JIG1150HumoursOfBallyloughlinThe               60 TN - True  Negative 
+REE1672JackPalances                            55 TN - True  Negative 
+REE1047Emigrants                               54 TN - True  Negative 
+REE1879KerryBagThe                             53 TN - True  Negative 
+REE0397BrefniOReilly                           53 TN - True  Negative 
+REE2189MacLaineOfLochBuie                      51 TN - True  Negative 
+WAL0243Heartstrings                            50 TN - True  Negative 
+JIG0729DrockettyMarchThe                       50 TN - True  Negative 
+REE1084FairyThe                                48 TN - True  Negative 
+REE0830DaveNormawayMacDonaldsWedding           48 TN - True  Negative 
+REE0888DillonsFancy                            47 TN - True  Negative 
+JIG0369BrokenPoachedEggs                       47 TN - True  Negative 
+BAR0110IceHouseScottische                      47 FN - False Negative 
+WAL0480OrphanBoyThe                            46 TN - True  Negative 
+
+=============================================================================================
+
+Multi Queue
+
+BAR000072ndsFarewellToAberdeen                255 TP - True  Positive 
+SJI0194Leppadumdowledum                       251 TN - True  Negative 
+JIG000010thBatCrossingRhine                   243 TN - True  Negative 
+HOR0189DerryThe                               242 TN - True  Negative 
+REE2564MusicForAFoundHarmonium                236 FP - False Positive 
+HOR0556Murphys                                235 TN - True  Negative 
+JIG0925FriezeBreechesThe                      225 FP - False Positive 
+JIG2172RossBatteryMarch                       225 FP - False Positive 
+HOR0408JohnJKimmelsFavourite                  222 TN - True  Negative 
+REE1436HairOfTheDog                           216 TN - True  Negative 
+REE3153RubberManThe                           212 FP - False Positive 
+JIG1476LastTrainFromLoughrea                  205 FP - False Positive 
+BAR0163MaggieAndJock                          185 FN - False Negative 
+BAR0257SlipperThe                             155 TP - True  Positive 
+BAR0260StMichaelsMount                        150 TP - True  Positive 
+BAR0041BrianOKanesMarch                       138 FN - False Negative 
+BAR0267SweetFlowersOfMilltownThe              136 TP - True  Positive 
+BAR0216PeachBlossoms                          129 FN - False Negative 
+BAR0221PeggyThoughtShedMarry                  127 TP - True  Positive 
+BAR0109IWontBeANun                            126 FN - False Negative 
+
+
+
+JIG1702MontgomeriesMaggot                     288 TN - True  Negative 
+REE3444StraitsOfSherkinThe                    284 TN - True  Negative 
+HOR0698SermonThe                              283 TN - True  Negative 
+SJI0194Leppadumdowledum                       282 TN - True  Negative 
+HOR0408JohnJKimmelsFavourite                  280 TN - True  Negative 
+BAR000072ndsFarewellToAberdeen                279 TP - True  Positive 
+HOR0189DerryThe                               275 TN - True  Negative 
+JIG0561CorkHill                               272 FP - False Positive 
+HOR0556Murphys                                264 FP - False Positive 
+HOR0403JoeMcGannsFiddle                       262 FP - False Positive 
+REE1436HairOfTheDog                           258 FP - False Positive 
+BAR0197NewIrish                               258 FN - False Negative 
+HOR0789TrainJourneyNorthThe                   257 FP - False Positive 
+BAR0138KittyOSheas                            249 FN - False Negative 
+BAR0141KolevsKopanitsa                        244 FN - False Negative 
+BAR0181MerryMaidsPolkaThe                     241 FN - False Negative 
+BAR0163MaggieAndJock                          234 TP - True  Positive 
+BAR0073DonaldMacLeansFarewellToOban           231 TP - True  Positive 
+BAR0072DoctorMacLeodOfAlnwick                 228 TP - True  Positive 
+BAR0259SprigOfIvyThe                          226 TP - True  Positive 
+
+
+
+BAR000072ndsFarewellToAberdeen                323 TP - True  Positive 
+JIG000010thBatCrossingRhine                   171 TN - True  Negative 
+REE0538CatherineMcEvoys                        94 TN - True  Negative 
+SJI0194Leppadumdowledum                        90 TN - True  Negative 
+REE2404MissCathyChilcotts                      88 TN - True  Negative 
+JIG1001GoldRingThe                             85 TN - True  Negative 
+JIG0269BlackLoughThe                           81 TN - True  Negative 
+HOR0603PaddyInThePunjab                        77 TN - True  Negative 
+JIG0279BlackthornStickThe                      76 TN - True  Negative 
+JIG0868FinbarDwyersFavorite                    73 TN - True  Negative 
+SJI0224MominskoHoro                            72 TN - True  Negative 
+REE1443HammyHamiltons                          71 TN - True  Negative 
+POL0299JennyBells                              69 TN - True  Negative 
+REE1163Fitchrona                               69 TN - True  Negative 
+JIG0932FullLengthMetalStrapHandleDiggingSpade  67 FP - False Positive 
+BAR0110IceHouseScottische                      47 FN - False Negative 
+BAR0090GallopedeThe                            44 FN - False Negative 
+BAR0188MountainStreamThe                       40 FN - False Negative 
+BAR0031Blackwells                              35 FN - False Negative 
+BAR0212PaddyMcGintys                           35 FN - False Negative 
+
+
+
+BAR000072ndsFarewellToAberdeen                323 TP - True  Positive 
+JIG000010thBatCrossingRhine                   171 TN - True  Negative 
+JIG0269BlackLoughThe                           81 TN - True  Negative 
+REE1443HammyHamiltons                          71 TN - True  Negative 
+JIG0917FrancAPhoill                            63 TN - True  Negative 
+WAL0400MenOfTheWestThe                         60 TN - True  Negative 
+JIG1150HumoursOfBallyloughlinThe               60 TN - True  Negative 
+REE1672JackPalances                            55 TN - True  Negative 
+REE1047Emigrants                               54 TN - True  Negative 
+REE1879KerryBagThe                             53 TN - True  Negative 
+REE0397BrefniOReilly                           53 TN - True  Negative 
+REE2189MacLaineOfLochBuie                      51 TN - True  Negative 
+JIG0729DrockettyMarchThe                       50 TN - True  Negative 
+WAL0243Heartstrings                            50 TN - True  Negative 
+REE0830DaveNormawayMacDonaldsWedding           48 TN - True  Negative 
+REE1084FairyThe                                48 TN - True  Negative 
+BAR0110IceHouseScottische                      47 FN - False Negative 
+BAR0188MountainStreamThe                       40 FN - False Negative 
+BAR0212PaddyMcGintys                           35 FN - False Negative 
+BAR0121JamesyGannons                           31 FN - False Negative 

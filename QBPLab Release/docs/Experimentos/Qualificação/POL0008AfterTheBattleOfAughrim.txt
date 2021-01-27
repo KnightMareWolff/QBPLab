@@ -1,0 +1,106 @@
+*****************************************
+*Inicio Processo Busca Simples           
+*****************************************
+Tempo Inicial : 13:5:25 
+Musica de Busca: POL0008AfterTheBattleOfAughrim
+Experimento: SW
+Utiliza Atitude: Nao
+Total de Musicas 242 : 
+Total de ResultSet 5 : 
+POL0008AfterTheBattleOfAughrim;160
+BAR0010AnnikasButterfly;121
+SLI0010BallintoreThe;114
+POL000079thsFarewellToGibralter;107
+STR0020BamsDogsEnglish;101
+Tempo Final : 13:5:25 
+*****************************************
+*Fim Processo Busca Simples              
+*****************************************
+*****************************************
+*Inicio Processo Busca Simples           
+*****************************************
+Musica de Busca: POL0008AfterTheBattleOfAughrim
+Experimento: MUSSUM
+Utiliza Atitude: Nao
+Tempo Inicial : 13:5:29 
+Total de Musicas 242 : 
+Total de ResultSet 22 : 
+POL0008AfterTheBattleOfAughrim;160
+POL000079thsFarewellToGibralter;110
+POL0016AnChilfhionnMarch;104
+POL0001ABirthday;94
+POL0003AFavouriteDuetByMrHolmes;86
+POL0020AnGrianan;85
+POL0006AStonesThrow;84
+POL0012AlfredPaHultets;83
+POL0002ADramAtTheWake;82
+POL0011Alborada;82
+POL0009AgCriostAnSiol;80
+POL0021AnIrishLullaby;79
+POL0019AnFeochan;77
+POL0010AileenBonners;73
+POL0005ANorthCountryMaid;72
+POL0014AllAroundAuntRubysGarden;72
+POL0017AnCnocBui;72
+POL0013AlienDream;68
+POL0018AnDro;50
+POL0007Adam;49
+POL0015AnAlarch;36
+POL0004AGreatBigSeaHoveInLongBeach;18
+Tempo Final : 13:5:30 
+*****************************************
+*Fim Processo Busca Simples              
+*****************************************
+*****************************************
+*Inicio Processo Busca Simples           
+*****************************************
+Musica de Busca: POL0008AfterTheBattleOfAughrim
+Experimento: MUSSIX
+Utiliza Atitude: Nao
+Tempo Inicial : 13:5:34 
+Total de Musicas 242 : 
+Total de ResultSet 22 : 
+POL0008AfterTheBattleOfAughrim;160
+POL000079thsFarewellToGibralter;118
+POL0021AnIrishLullaby;107
+POL0020AnGrianan;100
+POL0001ABirthday;99
+POL0006AStonesThrow;95
+POL0003AFavouriteDuetByMrHolmes;93
+POL0002ADramAtTheWake;89
+POL0009AgCriostAnSiol;77
+POL0005ANorthCountryMaid;67
+POL0013AlienDream;65
+POL0011Alborada;58
+POL0016AnChilfhionnMarch;54
+POL0012AlfredPaHultets;51
+POL0014AllAroundAuntRubysGarden;46
+POL0010AileenBonners;45
+POL0007Adam;43
+POL0019AnFeochan;43
+POL0018AnDro;36
+POL0017AnCnocBui;12
+POL0015AnAlarch;10
+POL0004AGreatBigSeaHoveInLongBeach;6
+Tempo Final : 13:5:34 
+*****************************************
+*Fim Processo Busca Simples              
+*****************************************
+*****************************************
+*Inicio Processo Busca Simples           
+*****************************************
+Musica de Busca: POL0008AfterTheBattleOfAughrim
+Experimento: MUSSIX
+Utiliza Atitude: Sim
+Tempo Inicial : 13:5:37 
+Total de Musicas 242 : 
+Total de ResultSet 4 : 
+POL0008AfterTheBattleOfAughrim;160
+POL000079thsFarewellToGibralter;118
+POL0001ABirthday;99
+POL0011Alborada;58
+Tempo Final : 13:5:38 
+*****************************************
+*Fim Processo Busca Simples              
+*****************************************
+

@@ -1,0 +1,1 @@
+C:\Qt\5.13.1\mingw73_64\bin\windeployqt --debug .\QBPLab.exe

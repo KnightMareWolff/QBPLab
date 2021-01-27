@@ -1,0 +1,119 @@
+*****************************************
+*Inicio Processo Busca Simples           
+*****************************************
+Tempo Inicial : 12:52:54 
+Musica de Busca: SLI0013BedfordCross
+Experimento: SW
+Utiliza Atitude: Nao
+Total de Musicas 242 : 
+Total de ResultSet 1 : 
+SLI0013BedfordCross;101
+Tempo Final : 12:52:54 
+*****************************************
+*Fim Processo Busca Simples              
+*****************************************
+*****************************************
+*Inicio Processo Busca Simples           
+*****************************************
+Tempo Inicial : 12:52:58 
+Musica de Busca: SLI0013BedfordCross
+Experimento: MUSSUM
+Utiliza Atitude: Nao
+Total de Musicas 242 : 
+Total de ResultSet 22 : 
+SLI0013BedfordCross;101
+SLI0002AnSioda;78
+SLI0017BogmanThe;78
+SLI0008BaidinFheilimi;74
+SLI0010BallintoreThe;72
+SLI0006AtTheBendInTheRoad;71
+SLI0011BangUp;70
+SLI0007BackOfTheForgeThe;67
+SLI0004ArtOKeefes;64
+SLI0012BarrackHill;64
+SLI0015BiddyTheDarling;64
+SLI0019BridgieConMatts;63
+SLI0000AJigForJack;62
+SLI0014BellbirdsOfKurrajong;62
+SLI0003AnlonMcKinney;61
+SLI0001AnChearcArFadIsAnAnairthe;60
+SLI0016BlackbirdThe;59
+SLI0005AskMyFather;58
+SLI0009BallintoreFancyThe;58
+SLI0020BridgieMurphys;53
+SLI0021BridgieMurphy;53
+SLI0018Bowna;49
+Tempo Final : 12:52:59 
+*****************************************
+*Fim Processo Busca Simples              
+*****************************************
+Musica de Busca: SLI0013BedfordCross
+Experimento: MUSSIX
+Utiliza Atitude: Nao
+*****************************************
+*Inicio Processo Busca Simples           
+*****************************************
+Tempo Inicial : 12:53:2 
+Total de Musicas 242 : 
+Total de ResultSet 22 : 
+SLI0013BedfordCross;101
+SLI0012BarrackHill;85
+SLI0011BangUp;77
+SLI0017BogmanThe;75
+SLI0007BackOfTheForgeThe;74
+SLI0019BridgieConMatts;68
+SLI0008BaidinFheilimi;67
+SLI0000AJigForJack;63
+SLI0003AnlonMcKinney;63
+SLI0001AnChearcArFadIsAnAnairthe;62
+SLI0021BridgieMurphy;59
+SLI0002AnSioda;57
+SLI0010BallintoreThe;47
+SLI0006AtTheBendInTheRoad;43
+SLI0014BellbirdsOfKurrajong;40
+SLI0015BiddyTheDarling;40
+SLI0020BridgieMurphys;38
+SLI0005AskMyFather;21
+SLI0004ArtOKeefes;16
+SLI0016BlackbirdThe;16
+SLI0018Bowna;8
+SLI0009BallintoreFancyThe;6
+Tempo Final : 12:53:2 
+*****************************************
+*Fim Processo Busca Simples              
+*****************************************
+*****************************************
+*Inicio Processo Busca Simples           
+*****************************************
+Tempo Inicial : 12:53:6 
+Musica de Busca: SLI0013BedfordCross
+Experimento: MUSSIX
+Utiliza Atitude: Sim
+Total de Musicas 242 : 
+Total de ResultSet 21 : 
+SLI0013BedfordCross;101
+SLI0012BarrackHill;85
+SLI0011BangUp;77
+SLI0017BogmanThe;75
+SLI0019BridgieConMatts;68
+SLI0008BaidinFheilimi;67
+SLI0000AJigForJack;63
+SLI0003AnlonMcKinney;63
+SLI0001AnChearcArFadIsAnAnairthe;62
+SLI0021BridgieMurphy;59
+SLI0002AnSioda;57
+SLI0010BallintoreThe;47
+SLI0006AtTheBendInTheRoad;43
+SLI0014BellbirdsOfKurrajong;40
+SLI0015BiddyTheDarling;40
+SLI0020BridgieMurphys;38
+SLI0005AskMyFather;21
+SLI0004ArtOKeefes;16
+SLI0016BlackbirdThe;16
+SLI0018Bowna;8
+SLI0009BallintoreFancyThe;6
+Tempo Final : 12:53:7 
+*****************************************
+*Fim Processo Busca Simples              
+*****************************************
+

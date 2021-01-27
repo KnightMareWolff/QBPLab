@@ -1,0 +1,120 @@
+*****************************************
+*Inicio Processo Busca Simples           
+*****************************************
+Tempo Inicial : 12:59:15 
+Musica de Busca: WAL0014AcrossTheDivide
+Experimento: SW
+Utiliza Atitude: Nao
+Total de Musicas 242 : 
+Total de ResultSet 23 : 
+WAL0014AcrossTheDivide;270
+HOR0020AnPointe;154
+JIG000368DuPetitSarny;153
+BAR0010AnnikasButterfly;148
+JIG000010thBatCrossingRhine;147
+HOR0015AnBuachaillDreoite;139
+SLI0010BallintoreThe;139
+POL0016AnChilfhionnMarch;136
+JIG0021AMemoryOfFriendsPast;135
+THR0019DicksMaggot;129
+REE0020ASconeForBreakfast;128
+WAL0012AWhistleOnTheWind;126
+HOR0016AnComhraDonn;121
+REE0002ABonnyLassToMerryMe;118
+HOR0000ASaluteToAngusChisholm;116
+REE0016AParcelOfLand;115
+JIG0006ABarrelOfKnives;111
+HOR0005AggieWhites;109
+STR0008AllowaKirk;104
+BAR0016BagpipeMarch;103
+JIG000230YearThe;103
+STR0017AtholBrose;103
+WAL0017AgTaistealNaBlrnan;103
+Tempo Final : 12:59:16 
+*****************************************
+*Fim Processo Busca Simples              
+*****************************************
+*****************************************
+*Inicio Processo Busca Simples           
+*****************************************
+Tempo Inicial : 12:59:19 
+Musica de Busca: WAL0014AcrossTheDivide
+Experimento: MUSSUM
+Utiliza Atitude: Nao
+Total de Musicas 242 : 
+Total de ResultSet 22 : 
+WAL0014AcrossTheDivide;270
+WAL0012AWhistleOnTheWind;148
+WAL0002ACostaDeGalicia;143
+WAL0019AislingGheal;132
+WAL0006AMemoryOfFriendsPast;127
+WAL0010AWaltzForTheBallroom;123
+WAL0013AcharaviThe;119
+WAL0009ATripToGalloway;117
+WAL0021Alys;112
+WAL000040Year;109
+WAL0017AgTaistealNaBlrnan;109
+WAL0004ADayAndAnAge;103
+WAL0007APerfectDay;99
+WAL0001ABruxa;82
+WAL0008AStorMoChroi;69
+WAL0003ADaisyInDecember;67
+WAL0018AirMoving;60
+WAL0005AMaidThatsDeepInLove;52
+WAL0015AfterTheBall;51
+WAL0016AftonWater;45
+WAL0020AlleHugel;37
+WAL0011AWelcomeChristmasMorning;31
+Tempo Final : 12:59:20 
+*****************************************
+*Fim Processo Busca Simples              
+*****************************************
+*****************************************
+*Inicio Processo Busca Simples           
+*****************************************
+Tempo Inicial : 12:59:23 
+Musica de Busca: WAL0014AcrossTheDivide
+Experimento: MUSSIX
+Utiliza Atitude: Nao
+Total de Musicas 242 : 
+Total de ResultSet 22 : 
+WAL0014AcrossTheDivide;270
+WAL0012AWhistleOnTheWind;145
+WAL0010AWaltzForTheBallroom;126
+WAL0002ACostaDeGalicia;113
+WAL0006AMemoryOfFriendsPast;112
+WAL0017AgTaistealNaBlrnan;110
+WAL0007APerfectDay;89
+WAL0003ADaisyInDecember;79
+WAL0004ADayAndAnAge;79
+WAL0016AftonWater;52
+WAL000040Year;48
+WAL0020AlleHugel;44
+WAL0001ABruxa;36
+WAL0005AMaidThatsDeepInLove;36
+WAL0009ATripToGalloway;30
+WAL0018AirMoving;25
+WAL0015AfterTheBall;24
+WAL0019AislingGheal;23
+WAL0008AStorMoChroi;15
+WAL0021Alys;13
+WAL0013AcharaviThe;8
+WAL0011AWelcomeChristmasMorning;6
+Tempo Final : 12:59:24 
+*****************************************
+*Fim Processo Busca Simples              
+*****************************************
+*****************************************
+*Inicio Processo Busca Simples           
+*****************************************
+Tempo Inicial : 12:59:28 
+Musica de Busca: WAL0014AcrossTheDivide
+Experimento: MUSSIX
+Utiliza Atitude: Sim
+Total de Musicas 242 : 
+Total de ResultSet 1 : 
+WAL0014AcrossTheDivide;270
+Tempo Final : 12:59:28 
+*****************************************
+*Fim Processo Busca Simples              
+*****************************************

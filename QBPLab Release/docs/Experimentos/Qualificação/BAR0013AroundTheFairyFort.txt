@@ -1,0 +1,147 @@
+*****************************************
+*Inicio Processo Busca Simples           
+*****************************************
+Tempo Inicial : 13:8:55 
+Musica de Busca: BAR0013AroundTheFairyFort
+Experimento: SW
+Utiliza Atitude: Nao
+Total de Musicas 242 : 
+Total de ResultSet 46 : 
+BAR0013AroundTheFairyFort;277
+POL000079thsFarewellToGibralter;173
+BAR0016BagpipeMarch;156
+HOR0013AlwaysWelcome;156
+BAR0003AMarchForGivingThanks;150
+HOR0016AnComhraDonn;150
+REE0020ASconeForBreakfast;149
+MAZ0008BarnacleThe;149
+SJI0012AngusJohnMacNeilOfBarra;148
+HOR0000ASaluteToAngusChisholm;146
+HOR0009Alexanders;146
+STR0017AtholBrose;146
+HOR0018AnGasurMor;143
+HOR0011AlstonFlowerShow;141
+HOR0017AnDroicheadBheag;139
+JIG000010thBatCrossingRhine;138
+SJI0005APaddybird;135
+REE0009AFishOutOfWater;130
+JIG0016AJigForBernie;129
+HOR0002AcrobatThe;125
+HOR0006AhaneThe;124
+SJI0003ACountryWedding;123
+SLI0000AJigForJack;123
+STR0014AnnieLaurie;121
+REE0021AShepherdsDream;119
+SLI0002AnSioda;118
+JIG0010ACuriousDenisMurphy;118
+JIG000493NotOut;116
+HOR0008Aldridges;116
+JIG0006ABarrelOfKnives;115
+JIG0001186TwoStep;114
+REE00011stAugust;113
+THR0016CodCheeksTongues;113
+MAZ0020CoburgThe;112
+JIG000368DuPetitSarny;112
+SLI0011BangUp;109
+JIG0008ABottleOfVodkaFortyEmbassyRedAnd50CashbackPlease;109
+MAZ00002DOrNot2D;109
+MAZ0005AnTulach;108
+MAZ0002Aggies;106
+MAZ0004AmberThe;105
+REE0011AGlintOfSilver;102
+SLI0008BaidinFheilimi;101
+JIG0015AHighlandQuickstep;100
+SLI0003AnlonMcKinney;100
+WAL0009ATripToGalloway;100
+Tempo Final : 13:8:56 
+*****************************************
+*Fim Processo Busca Simples              
+*****************************************
+*****************************************
+*Inicio Processo Busca Simples           
+*****************************************
+Musica de Busca: BAR0013AroundTheFairyFort
+Experimento: MUSSUM
+Utiliza Atitude: Nao
+Tempo Inicial : 13:8:59 
+Total de Musicas 242 : 
+Total de ResultSet 22 : 
+BAR0013AroundTheFairyFort;277
+BAR000291stAtModderRiverMarchThe;195
+BAR0016BagpipeMarch;178
+BAR000072ndsFarewellToAberdeen;168
+BAR0003AMarchForGivingThanks;165
+BAR0010AnnikasButterfly;156
+BAR0019BallydesmondMarchThe;142
+BAR0021BarleyAndChicory;140
+BAR0020BalmoralHighlandersThe;134
+BAR0018BallroomFavouriteThe;131
+BAR0009AnOrkney;124
+BAR000174thHighlandersQuickstep;123
+BAR0011Anstys;121
+BAR0005AlbertFarmersBonfire;118
+BAR0012AntigonishPolkaThe;113
+BAR0017BakersDozen;113
+BAR0006AnDroDElven;97
+BAR0014AtlantaSchottischeThe;89
+BAR0004ANationOnceAgain;86
+BAR0007AnDroMarcDAilleurs;72
+BAR0015AuntHessiesWhiteHorse;58
+BAR0008AnDro;45
+Tempo Final : 13:9:0 
+*****************************************
+*Fim Processo Busca Simples              
+*****************************************
+*****************************************
+*Inicio Processo Busca Simples           
+*****************************************
+Musica de Busca: BAR0013AroundTheFairyFort
+Experimento: MUSSIX
+Utiliza Atitude: Nao
+Tempo Inicial : 13:9:5 
+Total de Musicas 242 : 
+Total de ResultSet 22 : 
+BAR0013AroundTheFairyFort;277
+BAR0016BagpipeMarch;188
+BAR0003AMarchForGivingThanks;182
+BAR000072ndsFarewellToAberdeen;181
+BAR0019BallydesmondMarchThe;167
+BAR0018BallroomFavouriteThe;145
+BAR0011Anstys;136
+BAR000174thHighlandersQuickstep;132
+BAR0009AnOrkney;131
+BAR0020BalmoralHighlandersThe;131
+BAR0005AlbertFarmersBonfire;110
+BAR0004ANationOnceAgain;98
+BAR0014AtlantaSchottischeThe;98
+BAR0021BarleyAndChicory;83
+BAR0006AnDroDElven;80
+BAR000291stAtModderRiverMarchThe;75
+BAR0012AntigonishPolkaThe;63
+BAR0010AnnikasButterfly;49
+BAR0015AuntHessiesWhiteHorse;22
+BAR0017BakersDozen;16
+BAR0007AnDroMarcDAilleurs;12
+BAR0008AnDro;9
+Tempo Final : 13:9:6 
+*****************************************
+*Fim Processo Busca Simples              
+*****************************************
+*****************************************
+*Inicio Processo Busca Simples           
+*****************************************
+Musica de Busca: BAR0013AroundTheFairyFort
+Experimento: MUSSIX
+Utiliza Atitude: Sim
+Tempo Inicial : 13:9:11 
+Total de Musicas 242 : 
+Total de ResultSet 5 : 
+BAR0013AroundTheFairyFort;277
+BAR0016BagpipeMarch;188
+BAR000291stAtModderRiverMarchThe;75
+BAR0010AnnikasButterfly;49
+BAR0017BakersDozen;16
+Tempo Final : 13:9:12 
+*****************************************
+*Fim Processo Busca Simples              
+*****************************************

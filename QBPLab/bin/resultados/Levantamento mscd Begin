@@ -1,0 +1,618 @@
+Musica Consultada : REE0011AGlintOfSilver
+
+Result List :  
+REE0011AGlintOfSilver                 50 TP - True  Positive 
+REE2567MusicalEgoThe                  37 FN - False Negative 
+REE1274GalwayThe                      37 FN - False Negative 
+REE0413BridgeOfGlllass                37 FN - False Negative 
+JIG1746Muireanns                      37 TN - True  Negative 
+REE2939QueenOfRangoonThe              36 FN - False Negative 
+REE2250ManOfAran                      36 FN - False Negative 
+REE0925DonkeyInTheWell                36 FN - False Negative 
+REE0742CrossingTheDelaware            36 FN - False Negative 
+REE0589ChristmasEve                   36 FN - False Negative 
+JIG0434CarolansQuarrelWithTheLandlady 36 TN - True  Negative 
+WAL0024Amys                           35 TN - True  Negative 
+REE3836WomanOfTheHouseThe             35 FN - False Negative 
+REE2860PiningMaidThe                  35 FN - False Negative 
+REE1866KayGirroir                     35 FN - False Negative 
+STR0303ThreeMileBridgeThe             34 TN - True  Negative 
+REE3731VirginiaThe                    34 FN - False Negative 
+REE0868DesertStorm                    34 FN - False Negative 
+REE0330BobbyCaseys                    34 FN - False Negative 
+REE0320BlueKeysThe                    34 FN - False Negative 
+
+
+Musica Consultada : REE0011AGlintOfSilver
+Result List : 
+REE0011AGlintOfSilver                     50 TP - True  Positive 
+STR0322WillYouLendMeYourLoomLass          44 TN - True  Negative 
+JIG1746Muireanns                          44 TN - True  Negative 
+HOR0409JohnKimmelsAccordionFantasy        44 TN - True  Negative 
+REE1786JohnMacCollsMarchToKilbowieCottage 43 FN - False Negative 
+REE0413BridgeOfGlllass                    43 FN - False Negative 
+JIG1895OrthodoxPriestThe                  43 TN - True  Negative 
+WAL0511PortAtholl                         42 TN - True  Negative 
+THR0049MrPrestons                         42 TN - True  Negative 
+THR0048MrKeys                             42 TN - True  Negative 
+THR0001AllTheNightILayWithJockey          42 TN - True  Negative 
+REE3666tune4856setting48561               42 FN - False Negative 
+REE2990RedBeeThe                          42 FN - False Negative 
+REE2936QuayPitThe                         42 FN - False Negative 
+REE1274GalwayThe                          42 FN - False Negative 
+REE0547ClNaGrine                          42 FN - False Negative 
+REE0546Cdulie                             42 FN - False Negative 
+REE0545CavanPotholes                      42 FN - False Negative 
+REE0466Busybody                           42 FN - False Negative 
+POL0562SchottisFrnNorrbotten              42 TN - True  Negative 
+
+
+
+Musica Consultada : REE0011AGlintOfSilver
+Result List : 
+REE0011AGlintOfSilver              50 TP - True  Positive 
+HOR0409JohnKimmelsAccordionFantasy 42 TN - True  Negative 
+JIG2118Riverdance                  41 TN - True  Negative 
+BAR0197NewIrish                    41 TN - True  Negative 
+REE2973RatInTheKitchenThe          40 FN - False Negative 
+REE0411BridgeAttack                40 FN - False Negative 
+JIG1252JamesAndTheGiantPeach       40 TN - True  Negative 
+HOR0348HighLevelThe                40 TN - True  Negative 
+REE3733VodkaForBreakfast           39 FN - False Negative 
+REE3212SchoolReels                 39 FN - False Negative 
+REE1121FernyHill                   39 FN - False Negative 
+JIG1702MontgomeriesMaggot          39 TN - True  Negative 
+HOR0408JohnJKimmelsFavourite       39 TN - True  Negative 
+REE3444StraitsOfSherkinThe         38 FN - False Negative 
+REE3193SandPitThe                  38 FN - False Negative 
+REE2367MichaelsMatches             38 FN - False Negative 
+REE1183FloatingCandles             38 FN - False Negative 
+REE0845DeilsInTheFish              38 FN - False Negative 
+REE0488CambridgeCaravanCatastrophy 38 FN - False Negative 
+REE0305BlackberryBushThe           38 FN - False Negative 
+
+
+
+
+Musica Consultada : REE0011AGlintOfSilver
+Result List : 
+REE0011AGlintOfSilver              50 TP - True  Positive 
+HOR0409JohnKimmelsAccordionFantasy 42 TN - True  Negative 
+JIG2118Riverdance                  41 TN - True  Negative 
+BAR0197NewIrish                    41 TN - True  Negative 
+REE2973RatInTheKitchenThe          40 FN - False Negative 
+REE0411BridgeAttack                40 FN - False Negative 
+JIG1252JamesAndTheGiantPeach       40 TN - True  Negative 
+HOR0348HighLevelThe                40 TN - True  Negative 
+REE3733VodkaForBreakfast           39 FN - False Negative 
+REE3212SchoolReels                 39 FN - False Negative 
+REE1121FernyHill                   39 FN - False Negative 
+JIG1702MontgomeriesMaggot          39 TN - True  Negative 
+HOR0408JohnJKimmelsFavourite       39 TN - True  Negative 
+REE3444StraitsOfSherkinThe         38 FN - False Negative 
+REE3193SandPitThe                  38 FN - False Negative 
+REE2367MichaelsMatches             38 FN - False Negative 
+REE0488CambridgeCaravanCatastrophy 38 FN - False Negative 
+REE0305BlackberryBushThe           38 FN - False Negative 
+HOR0251FleeAsABird                 38 TN - True  Negative 
+WAL0486PaddysPerambulations        37 TN - True  Negative 
+
+
+
+Musica Consultada : BAR0006AnDroDElven
+Result List : 
+BAR0006AnDroDElven              50 TP - True  Positive 
+JIG2434ThreeSeaCaptainsThe      38 TN - True  Negative 
+SJI0208LuckyLuckyDay            36 TN - True  Negative 
+JIG2660YoungScotty              36 TN - True  Negative 
+HOR0834YDynwr                   36 TN - True  Negative 
+HOR0658Redesdale                36 TN - True  Negative 
+HOR0633PoppyLeafThe             36 TN - True  Negative 
+HOR0270FriendlyVisitThe         36 TN - True  Negative 
+REE2093LindenRise               35 TN - True  Negative 
+REE1244Friels                   35 TN - True  Negative 
+REE0903DoctorsThe               35 TN - True  Negative 
+HOR0619PibddawnsRhifWyth        35 TN - True  Negative 
+HOR0251FleeAsABird              35 TN - True  Negative 
+REE1784JohnKellys               34 TN - True  Negative 
+REE1401GreenGatesThe            34 TN - True  Negative 
+JIG1239JacksonsCookInTheKitchen 34 TN - True  Negative 
+HOR0337HeadlightThe             34 TN - True  Negative 
+HOR0328HarlequinThe             34 TN - True  Negative 
+HOR0215EbbTideThe               34 TN - True  Negative 
+HOR0200DougMacPheesClog         34 TN - True  Negative 
+
+
+
+Musica Consultada : BAR0006AnDroDElven
+Result List : 
+BAR0006AnDroDElven        50 TP - True  Positive 
+JIG1942PaidushkoHoro      43 TN - True  Negative 
+REE1411GreetsFarewell     42 TN - True  Negative 
+JIG0466CavesOfKiltanonThe 42 TN - True  Negative 
+SJI0018BachsFrolics 41 TN - True  Negative 
+REE3212SchoolReels 41 TN - True  Negative 
+REE2333McHughsOtherFoot 41 TN - True  Negative 
+REE1183FloatingCandles 41 TN - True  Negative 
+REE1083FairyHurlersThe 41 TN - True  Negative 
+REE0845DeilsInTheFish 41 TN - True  Negative 
+JIG1696MonasIsleQuickstep 41 TN - True  Negative 
+HOR0275FullOfTheBagThe 41 TN - True  Negative 
+THR0066SpinningJenny 40 TN - True  Negative 
+REE2581NancyTaylors 40 TN - True  Negative 
+REE0654ColonelFrasers 40 TN - True  Negative 
+HOR0156ComradeFinleys 40 TN - True  Negative 
+REE2515MovingCloudThe 39 TN - True  Negative 
+REE2496MossyBanksThe 39 TN - True  Negative 
+REE2093LindenRise 39 TN - True  Negative 
+REE0002ABonnyLassToMerryMe 39 TN - True  Negative 
+
+
+
+
+Musica Consultada : BAR0006AnDroDElven
+Result List : 
+BAR0006AnDroDElven            50 TP - True  Positive 
+JIG1252JamesAndTheGiantPeach  42 TN - True  Negative 
+JIG1708MorganRattler          40 TN - True  Negative 
+HOR0348HighLevelThe           40 TN - True  Negative 
+JIG2118Riverdance 39 TN - True  Negative 
+STR0322WillYouLendMeYourLoomLass 37 TN - True  Negative 
+REE3193SandPitThe 37 TN - True  Negative 
+BAR0197NewIrish 37 FN - False Negative 
+SJI0018BachsFrolics 36 TN - True  Negative 
+REE2973RatInTheKitchenThe 36 TN - True  Negative 
+THR0049MrPrestons 35 TN - True  Negative 
+STR0295SusanMcLeod 35 TN - True  Negative 
+REE3742WalrusThe 35 TN - True  Negative 
+REE2496MossyBanksThe 35 TN - True  Negative 
+REE0654ColonelFrasers 35 TN - True  Negative 
+REE0411BridgeAttack 35 TN - True  Negative 
+JIG2587WayOutYonder 35 TN - True  Negative 
+HOR0634PortlandThe 35 TN - True  Negative 
+WAL0669WaltzOfTheWhiteLilies 34 TN - True  Negative 
+SJI0124GlenuigHall 34 TN - True  Negative 
+
+
+
+
+
+Musica Consultada : BAR0006AnDroDElven
+Result List : 
+BAR0006AnDroDElven               50 TP - True  Positive 
+STR0322WillYouLendMeYourLoomLass 37 TN - True  Negative 
+REE3212SchoolReels               34 TN - True  Negative 
+HOR0409JohnKimmelsAccordionFantasy 34 TN - True  Negative 
+SLI0010BallintoreThe 33 TN - True  Negative 
+JIG2434ThreeSeaCaptainsThe 33 TN - True  Negative 
+JIG1855OffToPuckFair 32 TN - True  Negative 
+HOR0530MillQuayThe 32 TN - True  Negative 
+BAR0138KittyOSheas 32 FN - False Negative 
+WAL0420MorfarFrenhines 31 TN - True  Negative 
+THR0003AnDrochaidChliteach 31 TN - True  Negative 
+THR0002AltrinchamRound 31 TN - True  Negative 
+THR0001AllTheNightILayWithJockey 31 TN - True  Negative 
+REE2143LordGordons 31 TN - True  Negative 
+REE0021AShepherdsDream 31 TN - True  Negative 
+JIG2413TenPennyMoney 31 TN - True  Negative 
+BAR0205OKanesMarch 31 FN - False Negative 
+WAL0282JewelsOfTheOceanThe 30 TN - True  Negative 
+THR0030Heartsease 30 TN - True  Negative 
+REE1263GaleWarningThe 30 TN - True  Negative 
+
+
+
+
+Musica Consultada : BAR0024BattleOfKilliecrankieThe
+Result List : 
+BAR0024BattleOfKilliecrankieThe 50 TP - True  Positive 
+REE1654ItsAllYourFault 35 TN - True  Negative 
+SJI0253PipersMaggotThe 34 TN - True  Negative 
+HOR0424KatherineBrennansFavorite 34 TN - True  Negative 
+REE2888PointeAuPic 33 TN - True  Negative 
+REE0902DoctorMacInnessFancy 33 TN - True  Negative 
+REE3209ScartaglenThe 32 TN - True  Negative 
+REE3031ReelOfEiscirRiada 32 TN - True  Negative 
+REE2130LongNoteThe 32 TN - True  Negative 
+REE1597HuntersPurseThe 32 TN - True  Negative 
+REE1184FloatingCrowbarThe 32 TN - True  Negative 
+REE1035EileenOBriens 32 TN - True  Negative 
+REE0975DubThe 32 TN - True  Negative 
+REE0816DanielKelly 32 TN - True  Negative 
+JIG1083HelvicHead 32 TN - True  Negative 
+WAL0381Mariannas 31 TN - True  Negative 
+REE3841WorkersHoliday 31 TN - True  Negative 
+REE2309MauraConnollys 31 TN - True  Negative 
+REE1590HumoursOfToomaghThe 31 TN - True  Negative 
+REE1451HanleysTweed 31 TN - True  Negative 
+
+
+
+
+Musica Consultada : BAR0024BattleOfKilliecrankieThe
+Result List : 
+BAR0024BattleOfKilliecrankieThe 50 TP - True  Positive 
+SLI0052DinnyDelaneys 41 TN - True  Negative 
+REE0575ChicagoThe 40 TN - True  Negative 
+JIG1252JamesAndTheGiantPeach 40 TN - True  Negative 
+SJI0326TimInArrears 39 TN - True  Negative 
+SJI0325TakeNoPrisoners 39 TN - True  Negative 
+REE1672JackPalances 39 TN - True  Negative 
+REE2455MohillThe 38 TN - True  Negative 
+REE1595HuntForWildFlora 38 TN - True  Negative 
+REE1009Earthsongs 38 TN - True  Negative 
+JIG1904OverTheDrumlins 38 TN - True  Negative 
+HOR0071BirdsThe 38 TN - True  Negative 
+REE3781Westland 37 TN - True  Negative 
+REE3078RizlaThe 37 TN - True  Negative 
+REE2723OnTheBanksOfLakeMerlot 37 TN - True  Negative 
+REE1903KiltyTown 37 TN - True  Negative 
+REE1367GoodbyeMissGoodavich 37 TN - True  Negative 
+REE0411BridgeAttack 37 TN - True  Negative 
+JIG2311SparklingSeaThe 37 TN - True  Negative 
+JIG1499LiamOConnors 37 TN - True  Negative 
+
+
+
+
+Musica Consultada : BAR0024BattleOfKilliecrankieThe
+Result List : 
+BAR0024BattleOfKilliecrankieThe 50 TP - True  Positive 
+POL0555Salton 41 TN - True  Negative 
+JIG1708MorganRattler 41 TN - True  Negative 
+JIG2587WayOutYonder 39 TN - True  Negative 
+JIG1252JamesAndTheGiantPeach 38 TN - True  Negative 
+HOR0189DerryThe 38 TN - True  Negative 
+STR0034BobParsons 37 TN - True  Negative 
+THR0030Heartsease 36 TN - True  Negative 
+REE3733VodkaForBreakfast 36 TN - True  Negative 
+REE0654ColonelFrasers 36 TN - True  Negative 
+JIG2356StrayawayChildThe 36 TN - True  Negative 
+JIG1750MuneiraDeBarganaz 36 TN - True  Negative 
+HOR0698SermonThe 36 TN - True  Negative 
+THR0003AnDrochaidChliteach 35 TN - True  Negative 
+THR0002AltrinchamRound 35 TN - True  Negative 
+REE3193SandPitThe 35 TN - True  Negative 
+REE1478HeartlandPart1 35 TN - True  Negative 
+JIG000010thBatCrossingRhine 35 TN - True  Negative 
+HOR0639PresidentNixons 35 TN - True  Negative 
+REE3862ZitoTheBubbleman 34 TN - True  Negative 
+
+
+
+
+Musica Consultada : BAR0024BattleOfKilliecrankieThe
+Result List : 
+BAR0024BattleOfKilliecrankieThe 50 TP - True  Positive 
+POL0555Salton 41 TN - True  Negative 
+HOR0189DerryThe 38 TN - True  Negative 
+STR0034BobParsons 37 TN - True  Negative 
+THR0030Heartsease 36 TN - True  Negative 
+REE3733VodkaForBreakfast 36 TN - True  Negative 
+REE0654ColonelFrasers 36 TN - True  Negative 
+HOR0698SermonThe 36 TN - True  Negative 
+THR0003AnDrochaidChliteach 35 TN - True  Negative 
+THR0002AltrinchamRound 35 TN - True  Negative 
+REE3193SandPitThe 35 TN - True  Negative 
+JIG000010thBatCrossingRhine 35 TN - True  Negative 
+HOR0639PresidentNixons 35 TN - True  Negative 
+REE3862ZitoTheBubbleman 34 TN - True  Negative 
+REE1672JackPalances 34 TN - True  Negative 
+REE0411BridgeAttack 34 TN - True  Negative 
+JIG2264SilverMinesThe 34 TN - True  Negative 
+JIG1855OffToPuckFair 34 TN - True  Negative 
+JIG1083HelvicHead 34 TN - True  Negative 
+HOR0315GrovesThe 34 TN - True  Negative 
+
+
+
+
+
+Musica Consultada : JIG0060AhSeeYeKeepABee
+Result List : 
+JIG0060AhSeeYeKeepABee 50 TP - True  Positive 
+REE1950LaGrandeChaine 40 TN - True  Negative 
+JIG0358BridesFavouriteThe 40 FN - False Negative 
+REE0413BridgeOfGlllass 39 TN - True  Negative 
+SJI0058CrecheThe 38 TN - True  Negative 
+SLI0010BallintoreThe 38 TN - True  Negative 
+REE0689ControversialThe 38 TN - True  Negative 
+HOR0519MenFromUlsterThe 38 TN - True  Negative 
+WAL0486PaddysPerambulations 37 TN - True  Negative 
+SLI0165ParnellsMarch 37 TN - True  Negative 
+REE2678OffInTheMorning 37 TN - True  Negative 
+REE2432MissMcLeods 37 TN - True  Negative 
+REE2064LeoGinleys 37 TN - True  Negative 
+JIG2378SweetsOfMayThe 37 FN - False Negative 
+JIG2183SallyLennon 37 FN - False Negative 
+JIG0794EndOfTheDayThe 37 FN - False Negative 
+JIG0269BlackLoughThe 37 FN - False Negative 
+BAR0109IWontBeANun 37 TN - True  Negative 
+SJI0322SwervingForBunnies 36 TN - True  Negative 
+REE2962RakesOfDrumlishThe 36 TN - True  Negative 
+
+
+
+
+Musica Consultada : JIG0060AhSeeYeKeepABee
+Result List : 
+JIG0060AhSeeYeKeepABee 50 TP - True  Positive 
+REE2143LordGordons 44 TN - True  Negative 
+JIG0269BlackLoughThe 44 FN - False Negative 
+SJI0148HeelsOverHead 43 TN - True  Negative 
+REE2081LiftYourGlassToTheLandlady 42 TN - True  Negative 
+REE2004LasherThe 42 TN - True  Negative 
+JIG0502ChristineTaylors 42 FN - False Negative 
+HOR0627PlasTegYBala 42 TN - True  Negative 
+HOR0348HighLevelThe 42 TN - True  Negative 
+HOR0275FullOfTheBagThe 42 TN - True  Negative 
+HOR0202DownfallOfParisThe 42 TN - True  Negative 
+SJI0208LuckyLuckyDay 41 TN - True  Negative 
+REE1009Earthsongs 41 TN - True  Negative 
+REE0003ABretonInParis 41 TN - True  Negative 
+JIG1955PasucaisOfCoana 41 FN - False Negative 
+JIG1940PaidinORafferty 41 FN - False Negative 
+HOR0070BillyTaylorsFancy 41 TN - True  Negative 
+WAL0449MyTimeInside2005 40 TN - True  Negative 
+THR0048MrKeys 40 TN - True  Negative 
+REE3193SandPitThe 40 TN - True  Negative 
+
+
+
+
+Musica Consultada : JIG0060AhSeeYeKeepABee
+Result List : 
+JIG0060AhSeeYeKeepABee 50 TP - True  Positive 
+JIG1252JamesAndTheGiantPeach 41 FN - False Negative 
+SLI0010BallintoreThe 39 TN - True  Negative 
+REE0654ColonelFrasers 39 TN - True  Negative 
+HOR0408JohnJKimmelsFavourite 39 TN - True  Negative 
+JIG1942PaidushkoHoro 38 FN - False Negative 
+HOR0348HighLevelThe 38 TN - True  Negative 
+HOR0202DownfallOfParisThe 38 TN - True  Negative 
+BAR0138KittyOSheas 37 TN - True  Negative 
+SJI0148HeelsOverHead 36 TN - True  Negative 
+REE2581NancyTaylors 36 TN - True  Negative 
+JIG1866OldGrayGooseThe 36 FN - False Negative 
+JIG1708MorganRattler 36 FN - False Negative 
+HOR0403JoeMcGannsFiddle 36 TN - True  Negative 
+WAL0669WaltzOfTheWhiteLilies 35 TN - True  Negative 
+WAL0511PortAtholl 35 TN - True  Negative 
+STR0147JewelOfAHundredYears 35 TN - True  Negative 
+SJI0018BachsFrolics 35 TN - True  Negative 
+SLI0208Tarantella 35 TN - True  Negative 
+REE3444StraitsOfSherkinThe 35 TN - True  Negative 
+
+
+
+
+Musica Consultada : JIG0060AhSeeYeKeepABee
+Result List : 
+JIG0060AhSeeYeKeepABee 50 TP - True  Positive 
+JIG1252JamesAndTheGiantPeach 41 FN - False Negative 
+SLI0010BallintoreThe 39 TN - True  Negative 
+REE0654ColonelFrasers 39 TN - True  Negative 
+HOR0408JohnJKimmelsFavourite 39 TN - True  Negative 
+JIG1942PaidushkoHoro 38 FN - False Negative 
+HOR0348HighLevelThe 38 TN - True  Negative 
+HOR0202DownfallOfParisThe 38 TN - True  Negative 
+BAR0138KittyOSheas 37 TN - True  Negative 
+SJI0148HeelsOverHead 36 TN - True  Negative 
+REE2581NancyTaylors 36 TN - True  Negative 
+JIG1866OldGrayGooseThe 36 FN - False Negative 
+HOR0403JoeMcGannsFiddle 36 TN - True  Negative 
+WAL0669WaltzOfTheWhiteLilies 35 TN - True  Negative 
+WAL0511PortAtholl 35 TN - True  Negative 
+STR0147JewelOfAHundredYears 35 TN - True  Negative 
+SJI0018BachsFrolics 35 TN - True  Negative 
+SLI0208Tarantella 35 TN - True  Negative 
+REE3444StraitsOfSherkinThe 35 TN - True  Negative 
+REE2660OConnellsFarewellToDublin 35 TN - True  Negative 
+
+
+
+
+Musica Consultada : SJI0000GIomainNanGamhna
+Result List : 
+SJI0000GIomainNanGamhna 44 TP - True  Positive 
+SJI0328TendingTheSteerWithAHeavyHeart 41 TP - True  Positive 
+REE3637TripToMiriamsThe 36 TN - True  Negative 
+REE0413BridgeOfGlllass 36 TN - True  Negative 
+BAR0049CatInTheFiddleCaseThe 36 TN - True  Negative 
+REE2936QuayPitThe 35 TN - True  Negative 
+REE2702OldMotherFlanagan 35 TN - True  Negative 
+JIG1970PayTheReckoning 35 TN - True  Negative 
+HOR0249Fitzgeralds 35 TN - True  Negative 
+REE3446StrangerAtTheGate 34 TN - True  Negative 
+REE1459HarmonicConvergenceThe 34 TN - True  Negative 
+REE0246BelfastTravellerThe 34 TN - True  Negative 
+JIG1975PeggysNettles 34 TN - True  Negative 
+JIG1557Lyndhurst 34 TN - True  Negative 
+REE3613Travers 33 TN - True  Negative 
+REE3605TourOfScotland 33 TN - True  Negative 
+REE1183FloatingCandles 33 TN - True  Negative 
+REE0677ConcertThe 33 TN - True  Negative 
+JIG1386KevinLoughlins 33 TN - True  Negative 
+JIG1383KerryThe 33 TN - True  Negative 
+
+
+
+
+Musica Consultada : SJI0000GIomainNanGamhna
+Result List : 
+SJI0000GIomainNanGamhna 44 TP - True  Positive 
+SJI0328TendingTheSteerWithAHeavyHeart 41 TP - True  Positive 
+THR0048MrKeys 40 FP - False Positive 
+REE1398GreenFieldsOfGlentownThe 39 FP - False Positive 
+REE0982DukeOfFifesWelcomeToDeesideThe 39 FP - False Positive 
+HOR0364HoolieInTheHub 39 FP - False Positive 
+WAL0511PortAtholl 38 TN - True  Negative 
+REE2515MovingCloudThe 38 TN - True  Negative 
+REE0289BirdInTheBushThe 38 TN - True  Negative 
+JIG2570WakingUpInWonderfulWark 38 TN - True  Negative 
+JIG1895OrthodoxPriestThe 38 TN - True  Negative 
+JIG0414CameronMcFadyen 38 TN - True  Negative 
+HOR0424KatherineBrennansFavorite 38 TN - True  Negative 
+HOR0418Jokijenkka 38 TN - True  Negative 
+HOR0409JohnKimmelsAccordionFantasy 38 TN - True  Negative 
+WAL0158DrunkAllNightAndDryInTheMorning 37 TN - True  Negative 
+REE3603TouchingCloth 37 TN - True  Negative 
+REE3115Rockfield 37 TN - True  Negative 
+REE2850PickOfTheLitter 37 TN - True  Negative 
+REE2771PaddyInPreston 37 TN - True  Negative 
+
+
+
+
+Musica Consultada : SJI0000GIomainNanGamhna
+Result List : 
+SJI0000GIomainNanGamhna 44 TP - True  Positive 
+JIG1252JamesAndTheGiantPeach 41 FP - False Positive 
+STR0322WillYouLendMeYourLoomLass 39 FP - False Positive 
+JIG2118Riverdance 39 FP - False Positive 
+WAL0676WaveSweeperThe 38 TN - True  Negative 
+REE0411BridgeAttack 38 TN - True  Negative 
+JIG1708MorganRattler 38 TN - True  Negative 
+HOR0626PlanxtyRobertJordan 38 TN - True  Negative 
+REE3212SchoolReels 37 TN - True  Negative 
+REE0845DeilsInTheFish 37 TN - True  Negative 
+HOR0408JohnJKimmelsFavourite 37 TN - True  Negative 
+HOR0348HighLevelThe 37 TN - True  Negative 
+HOR0202DownfallOfParisThe 37 TN - True  Negative 
+BAR0197NewIrish 37 TN - True  Negative 
+WAL0511PortAtholl 36 TN - True  Negative 
+WAL0486PaddysPerambulations 36 TN - True  Negative 
+SLI0010BallintoreThe 36 TN - True  Negative 
+POL0555Salton 36 TN - True  Negative 
+JIG2356StrayawayChildThe 36 TN - True  Negative 
+JIG1895OrthodoxPriestThe 36 TN - True  Negative 
+
+
+
+
+Musica Consultada : SJI0000GIomainNanGamhna
+Result List : 
+SJI0000GIomainNanGamhna 44 TP - True  Positive 
+JIG1252JamesAndTheGiantPeach 41 FP - False Positive 
+STR0322WillYouLendMeYourLoomLass 39 FP - False Positive 
+JIG2118Riverdance 39 FP - False Positive 
+WAL0676WaveSweeperThe 38 TN - True  Negative 
+REE0411BridgeAttack 38 TN - True  Negative 
+REE3212SchoolReels 37 TN - True  Negative 
+HOR0408JohnJKimmelsFavourite 37 TN - True  Negative 
+HOR0348HighLevelThe 37 TN - True  Negative 
+HOR0202DownfallOfParisThe 37 TN - True  Negative 
+BAR0197NewIrish 37 TN - True  Negative 
+WAL0511PortAtholl 36 TN - True  Negative 
+WAL0486PaddysPerambulations 36 TN - True  Negative 
+SLI0010BallintoreThe 36 TN - True  Negative 
+POL0555Salton 36 TN - True  Negative 
+JIG2356StrayawayChildThe 36 TN - True  Negative 
+JIG1895OrthodoxPriestThe 36 TN - True  Negative 
+JIG1866OldGrayGooseThe 36 TN - True  Negative 
+JIG1696MonasIsleQuickstep 36 TN - True  Negative 
+HOR0249Fitzgeralds 36 TN - True  Negative 
+
+
+
+
+Musica Consultada : BAR0052ClogTiJules
+Result List : 
+BAR0052ClogTiJules 50 TP - True  Positive 
+BAR0051CheticampThe 50 TP - True  Positive 
+HOR0669RivalThe 38 TN - True  Negative 
+HOR0313GreencastleThe 38 TN - True  Negative 
+HOR0249Fitzgeralds 37 TN - True  Negative 
+WAL0436Musette 36 TN - True  Negative 
+STR0322WillYouLendMeYourLoomLass 36 TN - True  Negative 
+REE2306Matthews 36 TN - True  Negative 
+HOR0633PoppyLeafThe 36 TN - True  Negative 
+HOR0062BelgraveSquare 36 TN - True  Negative 
+SJI0018BachsFrolics 35 TN - True  Negative 
+REE2514MovingBogThe 35 TN - True  Negative 
+REE0370BouzoukiPlayersNightmare 35 TN - True  Negative 
+HOR0659RedesideThe 35 TN - True  Negative 
+HOR0112BurnDeviotThe 35 TN - True  Negative 
+REE2317McBrides 34 TN - True  Negative 
+REE1794JohnNaughtonsGreenMountain 34 TN - True  Negative 
+REE1557HoundsOfLetterfrack 34 TN - True  Negative 
+REE1095FarewellToIreland 34 TN - True  Negative 
+HOR0803WadeHamptons 34 TN - True  Negative 
+
+
+
+
+Musica Consultada : BAR0052ClogTiJules
+Result List : 
+BAR0052ClogTiJules 50 TP - True  Positive 
+BAR0051CheticampThe 50 TP - True  Positive 
+REE3212SchoolReels 44 TN - True  Negative 
+REE1945LaCardeuse 43 TN - True  Negative 
+JIG1696MonasIsleQuickstep 43 TN - True  Negative 
+REE2515MovingCloudThe 42 TN - True  Negative 
+HOR0553Mulqueeneys 42 TN - True  Negative 
+HOR0315GrovesThe 42 TN - True  Negative 
+HOR0639PresidentNixons 41 TN - True  Negative 
+HOR0156ComradeFinleys 41 TN - True  Negative 
+REE2660OConnellsFarewellToDublin 40 TN - True  Negative 
+REE1749JobOfJourneyworkThe 40 TN - True  Negative 
+JIG1942PaidushkoHoro 40 TN - True  Negative 
+HOR0275FullOfTheBagThe 40 TN - True  Negative 
+HOR0198DonegalCastle 40 TN - True  Negative 
+WAL0669WaltzOfTheWhiteLilies 39 TN - True  Negative 
+REE3733VodkaForBreakfast 39 TN - True  Negative 
+REE3193SandPitThe 39 TN - True  Negative 
+REE2973RatInTheKitchenThe 39 TN - True  Negative 
+REE2496MossyBanksThe 39 TN - True  Negative 
+
+
+
+
+Musica Consultada : BAR0052ClogTiJules
+Result List : 
+BAR0052ClogTiJules 50 TP - True  Positive 
+BAR0051CheticampThe 50 TP - True  Positive 
+REE0654ColonelFrasers 39 TN - True  Negative 
+REE3733VodkaForBreakfast 38 TN - True  Negative 
+HOR0348HighLevelThe 37 TN - True  Negative 
+POL0555Salton 36 TN - True  Negative 
+REE0845DeilsInTheFish 35 TN - True  Negative 
+JIG1252JamesAndTheGiantPeach 35 TN - True  Negative 
+JIG0795EndOfTheWorldThe 34 TN - True  Negative 
+HOR0669RivalThe 34 TN - True  Negative 
+REE3212SchoolReels 33 TN - True  Negative 
+REE2041LeRossignol 33 TN - True  Negative 
+REE0370BouzoukiPlayersNightmare 33 TN - True  Negative 
+JIG0269BlackLoughThe 33 TN - True  Negative 
+JIG000010thBatCrossingRhine 33 TN - True  Negative 
+HOR0698SermonThe 33 TN - True  Negative 
+HOR0251FleeAsABird 33 TN - True  Negative 
+HOR0189DerryThe 33 TN - True  Negative 
+STR0295SusanMcLeod 32 TN - True  Negative 
+REE1507HighJinks 32 TN - True  Negative 
+
+
+
+
+Musica Consultada : BAR0052ClogTiJules
+Result List : 
+BAR0052ClogTiJules 50 TP - True  Positive 
+BAR0051CheticampThe 50 TP - True  Positive 
+REE0654ColonelFrasers 39 TN - True  Negative 
+REE3733VodkaForBreakfast 38 TN - True  Negative 
+HOR0348HighLevelThe 37 TN - True  Negative 
+POL0555Salton 36 TN - True  Negative 
+JIG0795EndOfTheWorldThe 34 TN - True  Negative 
+REE3212SchoolReels 33 TN - True  Negative 
+REE2041LeRossignol 33 TN - True  Negative 
+REE0370BouzoukiPlayersNightmare 33 TN - True  Negative 
+JIG0269BlackLoughThe 33 TN - True  Negative 
+JIG000010thBatCrossingRhine 33 TN - True  Negative 
+HOR0698SermonThe 33 TN - True  Negative 
+HOR0251FleeAsABird 33 TN - True  Negative 
+HOR0189DerryThe 33 TN - True  Negative 
+REE1507HighJinks 32 TN - True  Negative 
+REE0411BridgeAttack 32 TN - True  Negative 
+REE0021AShepherdsDream 32 TN - True  Negative 
+JIG2118Riverdance 32 TN - True  Negative 
+JIG1696MonasIsleQuickstep 32 TN - True  Negative 

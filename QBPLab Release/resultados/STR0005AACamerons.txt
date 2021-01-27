@@ -1,0 +1,115 @@
+*****************************************
+*Inicio Processo Busca Simples           
+*****************************************
+Tempo Inicial : 12:54:24 
+Musica de Busca: STR0005AACamerons
+Experimento: SW
+Utiliza Atitude: Nao
+Total de Musicas 242 : 
+Total de ResultSet 1 : 
+STR0005AACamerons;130
+Tempo Final : 12:54:25 
+*****************************************
+*Fim Processo Busca Simples              
+*****************************************
+Musica de Busca: STR0005AACamerons
+Experimento: MUSSUM
+Utiliza Atitude: Nao
+*****************************************
+*Inicio Processo Busca Simples           
+*****************************************
+Tempo Inicial : 12:54:29 
+Total de Musicas 242 : 
+Total de ResultSet 22 : 
+STR0005AACamerons;130
+STR0020BamsDogsEnglish;99
+STR0001ANewStrathspeyReel;98
+STR0008AllowaKirk;93
+STR0014AnnieLaurie;88
+STR0003ATripToMabouRidge;86
+STR0021BanaisMairead;84
+STR0006AlexDanMacIsaacs;79
+STR0017AtholBrose;78
+STR0012AndersonFamilyFlingThe;76
+STR0019AuldMansMaresDeadThe;71
+STR0000AMhisgAChurAnLoligOirn;70
+STR0013AngusYoungs;70
+STR0011AnUglyCustomer;69
+STR0009AmFaighirMuileach;68
+STR0010AnMhallaidhGharbh;68
+STR0016AnthonyMurrays;68
+STR0002ATributeToElizabethBeaton;67
+STR0004AFIrving;62
+STR0007AlisterMcAlister;60
+STR0015AnthonyDick;55
+STR0018AuldHooseThe;37
+Tempo Final : 12:54:29 
+*****************************************
+*Fim Processo Busca Simples              
+*****************************************
+*****************************************
+*Inicio Processo Busca Simples           
+*****************************************
+Tempo Inicial : 12:54:33 
+Musica de Busca: STR0005AACamerons
+Experimento: MUSSIX
+Utiliza Atitude: Nao
+Total de Musicas 242 : 
+Total de ResultSet 22 : 
+STR0005AACamerons;130
+STR0020BamsDogsEnglish;110
+STR0017AtholBrose;93
+STR0003ATripToMabouRidge;91
+STR0006AlexDanMacIsaacs;89
+STR0001ANewStrathspeyReel;83
+STR0009AmFaighirMuileach;82
+STR0012AndersonFamilyFlingThe;82
+STR0007AlisterMcAlister;81
+STR0019AuldMansMaresDeadThe;80
+STR0000AMhisgAChurAnLoligOirn;79
+STR0004AFIrving;48
+STR0018AuldHooseThe;48
+STR0021BanaisMairead;45
+STR0002ATributeToElizabethBeaton;43
+STR0008AllowaKirk;42
+STR0014AnnieLaurie;41
+STR0010AnMhallaidhGharbh;40
+STR0011AnUglyCustomer;40
+STR0013AngusYoungs;38
+STR0016AnthonyMurrays;31
+STR0015AnthonyDick;28
+Tempo Final : 12:54:34 
+*****************************************
+*Fim Processo Busca Simples              
+*****************************************
+*****************************************
+*Inicio Processo Busca Simples           
+*****************************************
+Musica de Busca: STR0005AACamerons
+Experimento: MUSSIX
+Utiliza Atitude: Sim
+Tempo Inicial : 12:54:52 
+Total de Musicas 242 : 
+Total de ResultSet 16 : 
+STR0005AACamerons;130
+STR0020BamsDogsEnglish;110
+STR0017AtholBrose;93
+STR0001ANewStrathspeyReel;83
+STR0009AmFaighirMuileach;82
+STR0007AlisterMcAlister;81
+STR0019AuldMansMaresDeadThe;80
+STR0004AFIrving;48
+STR0021BanaisMairead;45
+STR0002ATributeToElizabethBeaton;43
+STR0008AllowaKirk;42
+STR0014AnnieLaurie;41
+STR0010AnMhallaidhGharbh;40
+STR0011AnUglyCustomer;40
+STR0016AnthonyMurrays;31
+STR0015AnthonyDick;28
+Tempo Final : 12:54:53 
+*****************************************
+*Fim Processo Busca Simples              
+*****************************************
+
+

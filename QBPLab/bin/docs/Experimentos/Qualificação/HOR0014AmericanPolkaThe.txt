@@ -1,0 +1,125 @@
+*****************************************
+*Inicio Processo Busca Simples           
+*****************************************
+Tempo Inicial : 12:51:49 
+Musica de Busca: HOR0014AmericanPolkaThe
+Experimento: SW
+Utiliza Atitude: Nao
+Total de Musicas 242 : 
+Total de ResultSet 27 : 
+HOR0014AmericanPolkaThe;496
+BAR000291stAtModderRiverMarchThe;213
+REE0021AShepherdsDream;199
+POL000079thsFarewellToGibralter;195
+REE0018APunchInTheDark;149
+JIG0008ABottleOfVodkaFortyEmbassyRedAnd50CashbackPlease;145
+BAR0016BagpipeMarch;137
+HOR0000ASaluteToAngusChisholm;126
+SJI0005APaddybird;125
+HOR0006AhaneThe;124
+SLI0005AskMyFather;124
+THR0016CodCheeksTongues;123
+STR0020BamsDogsEnglish;121
+JIG0001186TwoStep;120
+MAZ0006AssInTheGraveyardThe;120
+JIG0007ABlurOfHeather;118
+HOR0016AnComhraDonn;116
+SJI0012AngusJohnMacNeilOfBarra;115
+REE0010AGhostOfHisFormerSelf;108
+STR0017AtholBrose;108
+BAR000174thHighlandersQuickstep;107
+JIG0016AJigForBernie;107
+BAR0011Anstys;105
+JIG000493NotOut;103
+MAZ0014Bridgets;103
+MAZ0018Catherines;102
+WAL0002ACostaDeGalicia;100
+Tempo Final : 12:51:51 
+*****************************************
+*Fim Processo Busca Simples              
+*****************************************
+*****************************************
+*Inicio Processo Busca Simples           
+*****************************************
+Tempo Inicial : 12:51:54 
+Musica de Busca: HOR0014AmericanPolkaThe
+Experimento: MUSSUM
+Utiliza Atitude: Nao
+Total de Musicas 242 : 
+Total de ResultSet 22 : 
+HOR0014AmericanPolkaThe;496
+HOR0018AnGasurMor;225
+HOR0013AlwaysWelcome;218
+HOR0003AcrossTheFence;217
+HOR0000ASaluteToAngusChisholm;176
+HOR0008Aldridges;176
+HOR0001AbbeyTavernThe;175
+HOR0009Alexanders;161
+HOR0011AlstonFlowerShow;157
+HOR0005AggieWhites;155
+HOR0006AhaneThe;154
+HOR0017AnDroicheadBheag;151
+HOR0016AnComhraDonn;150
+HOR0015AnBuachaillDreoite;143
+HOR0002AcrobatThe;142
+HOR0020AnPointe;137
+HOR0010AlltyCaethiwed;133
+HOR0004AdrianStuart;117
+HOR0019AnPaistinFionn;115
+HOR0012AlstonThe;112
+HOR0021AnSeanVeistsAnCarbhat;97
+HOR0007AlbertHouse;87
+Tempo Final : 12:51:56 
+*****************************************
+*Fim Processo Busca Simples              
+*****************************************
+*****************************************
+*Inicio Processo Busca Simples           
+*****************************************
+Musica de Busca: HOR0014AmericanPolkaThe
+Experimento: MUSSIX
+Utiliza Atitude: Nao
+Tempo Inicial : 12:52:0 
+Total de Musicas 242 : 
+Total de ResultSet 22 : 
+HOR0014AmericanPolkaThe;496
+HOR0001AbbeyTavernThe;173
+HOR0008Aldridges;166
+HOR0013AlwaysWelcome;161
+HOR0000ASaluteToAngusChisholm;157
+HOR0006AhaneThe;149
+HOR0016AnComhraDonn;147
+HOR0002AcrobatThe;125
+HOR0009Alexanders;123
+HOR0018AnGasurMor;117
+HOR0005AggieWhites;96
+HOR0017AnDroicheadBheag;96
+HOR0021AnSeanVeistsAnCarbhat;84
+HOR0011AlstonFlowerShow;82
+HOR0019AnPaistinFionn;82
+HOR0007AlbertHouse;68
+HOR0015AnBuachaillDreoite;29
+HOR0010AlltyCaethiwed;22
+HOR0004AdrianStuart;20
+HOR0003AcrossTheFence;18
+HOR0012AlstonThe;12
+HOR0020AnPointe;9
+Tempo Final : 12:52:2 
+*****************************************
+*Fim Processo Busca Simples              
+*****************************************
+*****************************************
+*Inicio Processo Busca Simples           
+*****************************************
+Tempo Inicial : 12:52:6 
+Musica de Busca: HOR0014AmericanPolkaThe
+Experimento: MUSSIX
+Utiliza Atitude: Sim
+Total de Musicas 242 : 
+Total de ResultSet 1 : 
+HOR0014AmericanPolkaThe;496
+Tempo Final : 12:52:6 
+*****************************************
+*Fim Processo Busca Simples              
+*****************************************
+
